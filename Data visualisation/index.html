@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head> 
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Parallax responsive landing page</title>
+
+        <link rel="stylesheet" href="assets/css/styles.css">
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+         
+        <!-- ICONS BOXICONS -->
+        <link href='https://cdn.jsdelivr.net/npm/boxicons@2.0.5/css/boxicons.min.css' rel='stylesheet'>
+    </head>
+    <body>
+        <!-- ===== HEADER =====-->
+        <header class="l-header">
+            <nav class="nav bd-grid">
+                <a href="#" class="nav__logo">COS30045 Data Visualization</a>
+
+                <div class="nav__toggle" id="nav-toggle">
+                    <i class='bx bx-menu-alt-right'></i>
+                </div>
+
+                <div class="nav__menu" id="nav-menu">
+                    <ul class="nav__list">
+                        <li class="nav__item"><a href="#section" class="nav__link">Introduction</a></li>
+                        <li class="nav__item"><a href="#description" class="nav__link">Map</a></li>
+                        <li class="nav__item"><a href="#scatterplot-description" class="nav__link">Scatter Plot</a></li>
+                        <li class="nav__item"><a href="#sankey-description" class="nav__link">Sankey</a></li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+
+        <main>
+            <!-- ===== HOME =====-->
+            <div class="home">
+                <div class="parallax home__parallax home__parallax-img1" data-rellax-speed="-9"></div>
+                <div class="parallax home__parallax home__parallax-img2" data-rellax-speed="-7"></div>
+                <div class="parallax home__parallax home__parallax-img3" data-rellax-speed="-6"></div>
+                <div class="parallax home__parallax home__parallax-img4" data-rellax-speed="-3"></div>
+
+                <h1 class="parallax home__title" data-rellax-speed="-6">Process Book</h1>
+                <span class="parallax home__subtitle" data-rellax-speed="-5">Duc Thuan Tran & Nhat Anh Dang</span> 
+
+                 
+            </div>
+
+            <!-- ===== SECTION =====-->
+            <section class="l-section" id="section">
+                <div class="section">
+                    <div class="section__data">
+                        <h2 class="section__title">Introduction</h2>
+                        <p class="section__text">Welcome to our website where we explore the intricate connections between diet, obesity, and life expectancy through innovative data visualizations.
+                            Utilizing dot plots and maps, our visual tools highlight the effects of dietary choices on public health across different countries. Our dot plots
+                             compare food consumption with obesity rates, while our maps illustrate the geographic distribution of obesity and its impact on life expectancy.
+                              Dive into our processed and curated data to discover how global dietary patterns influence health outcomes, providing valuable insights for
+                               policymakers, researchers, and the public interested in nutrition and health.
+                        </p>
+                    </div>
+        
+                    <img src="assets/image/MKVXR32YA5ORBPTI4FLENVLQFQ.jpg" alt="" class="section__img">
+                </div>
+            </section>
+        </main>
+        <div id="container">
+            <div id="controls" style="width: 60%; float: left; position: relative; z-index: 10;">
+                <div class="controls-row">
+                    <label>Continents:</label>
+                    <input type="radio" id="continent-all" name="continent" value="All" checked> All
+                    <input type="radio" id="continent-au" name="continent" value="Australia"> Australia
+                    <input type="radio" id="continent-eu" name="continent" value="Europe"> Europe
+                    <input type="radio" id="continent-as" name="continent" value="Asia"> Asia
+                    <input type="radio" id="continent-na" name="continent" value="North America"> North America
+                    <input type="radio" id="continent-sa" name="continent" value="South America"> South America
+                    <input type="radio" id="continent-af" name="continent" value="Africa"> Africa
+                </div>
+                
+                <div class="controls-row">
+                    <label>Years:</label>
+                    <input type="radio" id="year-2010" name="year" value="2010" checked> 2010
+                    <input type="radio" id="year-2011" name="year" value="2011"> 2011
+                    <input type="radio" id="year-2012" name="year" value="2012"> 2012
+                    <input type="radio" id="year-2013" name="year" value="2013"> 2013
+                    <input type="radio" id="year-2014" name="year" value="2014"> 2014
+                    <input type="radio" id="year-2015" name="year" value="2015"> 2015
+                    <input type="radio" id="year-2016" name="year" value="2016"> 2016
+                    <input type="radio" id="year-2017" name="year" value="2017"> 2017
+                    <input type="radio" id="year-2018" name="year" value="2018"> 2018
+                    <input type="radio" id="year-2019" name="year" value="2019"> 2019
+                    <input type="radio" id="year-2020" name="year" value="2020"> 2020
+                </div>
+                <div class="controls-row">
+                    <label>Energy types:</label>
+                    <input type="radio" id="data-fat" name="data" value="Fat" checked> Fat
+                    <input type="radio" id="data-protein" name="data" value="Protein"> Protein
+                    <input type="radio" id="data-fruit" name="data" value="Fruit"> Fruit
+                    <input type="radio" id="data-sugar" name="data" value="Sugar"> Sugar
+                    <input type="radio" id="data-veg" name="data" value="Veg"> Vegetables
+                    <input type="radio" id="data-obesity" name="data" value="Obesity"> Obesity
+                </div>
+                <button id="display">Display</button>
+            </div>
+            <div id="main-content">
+                <div id="map" style="width: 60%; height: 90vh; float: left;"></div>
+                <div id="description" style="width: 40%; height: 90vh; float: right;">
+                    <h1>Welcome to the Interactive Data Map</h1>
+                    <p>This interactive map provides a visual representation of various data types across different countries over the years. Explore trends in Fat, Protein, and more to gain insights into global nutritional habits and health metrics.</p>
+                    <p>Use the controls on the left to select continets, different years and data types. The map will update to reflect the information of your choice, providing a dynamic way to analyze data visually.</p>
+                    <p>This tool is designed to aid researchers, students, and anyone interested in global health trends to easily access and interpret complex datasets through a user-friendly interface.</p>
+                </div>
+            </div>
+            <script src="assets/js/map.js"></script>
+        </div>
+
+        <!-- Scatter Plot Section -->
+        <div id="scatterplot-container">
+            <div id="scatterplot-description" style="width: 40%; height: 90vh; float: right;">
+                <h1>Welcome to the Interactive Scatter Plot</h1>
+                <p>This scatter plot provides insights into the distribution of various metrics across different regions. Use the controls to explore different data views.</p>
+            </div>
+            <div id="scatterplot" style="width: 60%; height: 90vh; float: left;">
+                <!-- Scatter plot will be rendered here -->
+            </div>
+        </div>
+        <!-- Sankey Chart Section -->
+        <div id="sankey-container">
+            <div id="sankey-description" style="width: 40%; height: 90vh; float: right;">
+                <h1>Welcome to the Interactive Sankey Diagram</h1>
+                <p>This Sankey diagram visualizes the flow of data between different stages or categories. Use it to trace the connections and measure transfer magnitudes.</p>
+            </div>
+            <div id="sankey" style="width: 60%; height: 90vh; float: left;">
+                <!-- Sankey diagram will be rendered here -->
+            </div>
+        </div>
+        
+        <!-- RELLAX JS -->
+        <script src="assets/js/rellax.min.js"></script>
+
+        <!-- GSAP -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.2.6/gsap.min.js"></script>
+
+        <!-- SCROLL REVEAL -->
+        <script src="https://unpkg.com/scrollreveal"></script>
+
+        <!-- MAIN JS -->
+        <script src="assets/js/main.js"></script>
+
+    </body>
+</html>

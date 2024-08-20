@@ -1,0 +1,2311 @@
+source,target,value
+Fat,Africa-South Africa-2010,90.0
+Protein,Africa-South Africa-2010,80.4
+Fruit,Africa-South Africa-2010,28600.0
+Sugar,Africa-South Africa-2010,45200.0
+Veg,Africa-South Africa-2010,47900.0
+Fat,Africa-South Africa-2011,88.8
+Protein,Africa-South Africa-2011,80.2
+Fruit,Africa-South Africa-2011,33100.0
+Sugar,Africa-South Africa-2011,44300.0
+Veg,Africa-South Africa-2011,46800.0
+Fat,Africa-South Africa-2012,91.8
+Protein,Africa-South Africa-2012,80.5
+Fruit,Africa-South Africa-2012,28600.0
+Sugar,Africa-South Africa-2012,44400.0
+Veg,Africa-South Africa-2012,47600.0
+Fat,Africa-South Africa-2013,91.0
+Protein,Africa-South Africa-2013,80.5
+Fruit,Africa-South Africa-2013,25700.0
+Sugar,Africa-South Africa-2013,42800.0
+Veg,Africa-South Africa-2013,43000.0
+Fat,Africa-South Africa-2014,86.7
+Protein,Africa-South Africa-2014,82.2
+Fruit,Africa-South Africa-2014,28400.0
+Sugar,Africa-South Africa-2014,42900.0
+Veg,Africa-South Africa-2014,40000.0
+Fat,Africa-South Africa-2015,86.9
+Protein,Africa-South Africa-2015,81.6
+Fruit,Africa-South Africa-2015,26400.0
+Sugar,Africa-South Africa-2015,41700.0
+Veg,Africa-South Africa-2015,42900.0
+Fat,Africa-South Africa-2016,88.2
+Protein,Africa-South Africa-2016,81.4
+Fruit,Africa-South Africa-2016,19500.0
+Sugar,Africa-South Africa-2016,42400.0
+Veg,Africa-South Africa-2016,39500.0
+Fat,Africa-South Africa-2017,88.6
+Protein,Africa-South Africa-2017,79.7
+Fruit,Africa-South Africa-2017,20500.0
+Sugar,Africa-South Africa-2017,40400.0
+Veg,Africa-South Africa-2017,41000.0
+Fat,Africa-South Africa-2018,87.7
+Protein,Africa-South Africa-2018,80.4
+Fruit,Africa-South Africa-2018,23400.0
+Sugar,Africa-South Africa-2018,39900.0
+Veg,Africa-South Africa-2018,38400.0
+Fat,Africa-South Africa-2019,91.3
+Protein,Africa-South Africa-2019,80.7
+Fruit,Africa-South Africa-2019,24600.0
+Sugar,Africa-South Africa-2019,39300.0
+Veg,Africa-South Africa-2019,38000.0
+Fat,Africa-South Africa-2020,93.3
+Protein,Africa-South Africa-2020,79.1
+Fruit,Africa-South Africa-2020,22200.0
+Sugar,Africa-South Africa-2020,40800.0
+Veg,Africa-South Africa-2020,38400.0
+Fat,Asia-India-2010,49.5
+Protein,Asia-India-2010,58.8
+Fruit,Asia-India-2010,52500.0
+Sugar,Asia-India-2010,20900.0
+Veg,Asia-India-2010,72800.0
+Fat,Asia-India-2011,49.3
+Protein,Asia-India-2011,59.3
+Fruit,Asia-India-2011,50500.0
+Sugar,Asia-India-2011,22100.0
+Veg,Asia-India-2011,77400.0
+Fat,Asia-India-2012,51.2
+Protein,Asia-India-2012,59.4
+Fruit,Asia-India-2012,51500.0
+Sugar,Asia-India-2012,22600.0
+Veg,Asia-India-2012,81500.0
+Fat,Asia-India-2013,51.1
+Protein,Asia-India-2013,61.3
+Fruit,Asia-India-2013,56000.0
+Sugar,Asia-India-2013,22800.0
+Veg,Asia-India-2013,85400.0
+Fat,Asia-India-2014,54.6
+Protein,Asia-India-2014,62.0
+Fruit,Asia-India-2014,59000.0
+Sugar,Asia-India-2014,21600.0
+Veg,Asia-India-2014,88300.0
+Fat,Asia-India-2015,54.8
+Protein,Asia-India-2015,61.6
+Fruit,Asia-India-2015,57800.0
+Sugar,Asia-India-2015,22500.0
+Veg,Asia-India-2015,84400.0
+Fat,Asia-India-2016,54.4
+Protein,Asia-India-2016,63.4
+Fruit,Asia-India-2016,57900.0
+Sugar,Asia-India-2016,22900.0
+Veg,Asia-India-2016,87000.0
+Fat,Asia-India-2017,57.4
+Protein,Asia-India-2017,65.1
+Fruit,Asia-India-2017,61300.0
+Sugar,Asia-India-2017,22300.0
+Veg,Asia-India-2017,90200.0
+Fat,Asia-India-2018,60.1
+Protein,Asia-India-2018,64.8
+Fruit,Asia-India-2018,62900.0
+Sugar,Asia-India-2018,25000.0
+Veg,Asia-India-2018,88500.0
+Fat,Asia-India-2019,60.2
+Protein,Asia-India-2019,66.2
+Fruit,Asia-India-2019,63600.0
+Sugar,Asia-India-2019,23100.0
+Veg,Asia-India-2019,89000.0
+Fat,Asia-India-2020,59.7
+Protein,Asia-India-2020,67.2
+Fruit,Asia-India-2020,63500.0
+Sugar,Asia-India-2020,21500.0
+Veg,Asia-India-2020,90700.0
+Fat,Asia-Indonesia-2010,45.7
+Protein,Asia-Indonesia-2010,58.1
+Fruit,Asia-Indonesia-2010,56900.0
+Sugar,Asia-Indonesia-2010,15900.0
+Veg,Asia-Indonesia-2010,39800.0
+Fat,Asia-Indonesia-2011,43.8
+Protein,Asia-Indonesia-2011,59.9
+Fruit,Asia-Indonesia-2011,61700.0
+Sugar,Asia-Indonesia-2011,18800.0
+Veg,Asia-Indonesia-2011,41600.0
+Fat,Asia-Indonesia-2012,47.3
+Protein,Asia-Indonesia-2012,60.4
+Fruit,Asia-Indonesia-2012,66100.0
+Sugar,Asia-Indonesia-2012,19100.0
+Veg,Asia-Indonesia-2012,41700.0
+Fat,Asia-Indonesia-2013,50.5
+Protein,Asia-Indonesia-2013,61.7
+Fruit,Asia-Indonesia-2013,61100.0
+Sugar,Asia-Indonesia-2013,21100.0
+Veg,Asia-Indonesia-2013,41300.0
+Fat,Asia-Indonesia-2014,51.3
+Protein,Asia-Indonesia-2014,63.3
+Fruit,Asia-Indonesia-2014,62900.0
+Sugar,Asia-Indonesia-2014,24600.0
+Veg,Asia-Indonesia-2014,42800.0
+Fat,Asia-Indonesia-2015,46.2
+Protein,Asia-Indonesia-2015,63.9
+Fruit,Asia-Indonesia-2015,68200.0
+Sugar,Asia-Indonesia-2015,25200.0
+Veg,Asia-Indonesia-2015,41400.0
+Fat,Asia-Indonesia-2016,57.8
+Protein,Asia-Indonesia-2016,65.2
+Fruit,Asia-Indonesia-2016,61600.0
+Sugar,Asia-Indonesia-2016,25600.0
+Veg,Asia-Indonesia-2016,42600.0
+Fat,Asia-Indonesia-2017,62.3
+Protein,Asia-Indonesia-2017,70.3
+Fruit,Asia-Indonesia-2017,64500.0
+Sugar,Asia-Indonesia-2017,24200.0
+Veg,Asia-Indonesia-2017,43700.0
+Fat,Asia-Indonesia-2018,60.3
+Protein,Asia-Indonesia-2018,68.9
+Fruit,Asia-Indonesia-2018,66300.0
+Sugar,Asia-Indonesia-2018,26500.0
+Veg,Asia-Indonesia-2018,44400.0
+Fat,Asia-Indonesia-2019,69.7
+Protein,Asia-Indonesia-2019,69.8
+Fruit,Asia-Indonesia-2019,66400.0
+Sugar,Asia-Indonesia-2019,26100.0
+Veg,Asia-Indonesia-2019,45300.0
+Fat,Asia-Indonesia-2020,69.0
+Protein,Asia-Indonesia-2020,68.8
+Fruit,Asia-Indonesia-2020,69400.0
+Sugar,Asia-Indonesia-2020,27000.0
+Veg,Asia-Indonesia-2020,47400.0
+Fat,Asia-Israel-2010,142.1
+Protein,Asia-Israel-2010,123.9
+Fruit,Asia-Israel-2010,105000.0
+Sugar,Asia-Israel-2010,31600.0
+Veg,Asia-Israel-2010,170200.0
+Fat,Asia-Israel-2011,142.3
+Protein,Asia-Israel-2011,124.5
+Fruit,Asia-Israel-2011,96200.0
+Sugar,Asia-Israel-2011,31600.0
+Veg,Asia-Israel-2011,171700.0
+Fat,Asia-Israel-2012,148.7
+Protein,Asia-Israel-2012,123.2
+Fruit,Asia-Israel-2012,103400.0
+Sugar,Asia-Israel-2012,31800.0
+Veg,Asia-Israel-2012,173300.0
+Fat,Asia-Israel-2013,146.8
+Protein,Asia-Israel-2013,126.3
+Fruit,Asia-Israel-2013,95600.0
+Sugar,Asia-Israel-2013,31200.0
+Veg,Asia-Israel-2013,175400.0
+Fat,Asia-Israel-2014,150.6
+Protein,Asia-Israel-2014,126.8
+Fruit,Asia-Israel-2014,94900.0
+Sugar,Asia-Israel-2014,31400.0
+Veg,Asia-Israel-2014,174600.0
+Fat,Asia-Israel-2015,149.0
+Protein,Asia-Israel-2015,122.6
+Fruit,Asia-Israel-2015,93200.0
+Sugar,Asia-Israel-2015,30700.0
+Veg,Asia-Israel-2015,161300.0
+Fat,Asia-Israel-2016,154.4
+Protein,Asia-Israel-2016,124.8
+Fruit,Asia-Israel-2016,103200.0
+Sugar,Asia-Israel-2016,30600.0
+Veg,Asia-Israel-2016,165500.0
+Fat,Asia-Israel-2017,157.1
+Protein,Asia-Israel-2017,125.6
+Fruit,Asia-Israel-2017,106600.0
+Sugar,Asia-Israel-2017,31400.0
+Veg,Asia-Israel-2017,152500.0
+Fat,Asia-Israel-2018,148.8
+Protein,Asia-Israel-2018,128.6
+Fruit,Asia-Israel-2018,100000.0
+Sugar,Asia-Israel-2018,42400.0
+Veg,Asia-Israel-2018,155000.0
+Fat,Asia-Israel-2019,143.3
+Protein,Asia-Israel-2019,127.7
+Fruit,Asia-Israel-2019,107200.0
+Sugar,Asia-Israel-2019,46100.0
+Veg,Asia-Israel-2019,147100.0
+Fat,Asia-Israel-2020,146.3
+Protein,Asia-Israel-2020,125.6
+Fruit,Asia-Israel-2020,104100.0
+Sugar,Asia-Israel-2020,47400.0
+Veg,Asia-Israel-2020,153300.0
+Fat,Asia-Japan-2010,86.2
+Protein,Asia-Japan-2010,87.2
+Fruit,Asia-Japan-2010,35200.0
+Sugar,Asia-Japan-2010,25500.0
+Veg,Asia-Japan-2010,101800.0
+Fat,Asia-Japan-2011,85.7
+Protein,Asia-Japan-2011,86.7
+Fruit,Asia-Japan-2011,36500.0
+Sugar,Asia-Japan-2011,28000.0
+Veg,Asia-Japan-2011,101200.0
+Fat,Asia-Japan-2012,86.6
+Protein,Asia-Japan-2012,87.5
+Fruit,Asia-Japan-2012,36500.0
+Sugar,Asia-Japan-2012,27900.0
+Veg,Asia-Japan-2012,96800.0
+Fat,Asia-Japan-2013,86.5
+Protein,Asia-Japan-2013,87.3
+Fruit,Asia-Japan-2013,35500.0
+Sugar,Asia-Japan-2013,27800.0
+Veg,Asia-Japan-2013,95300.0
+Fat,Asia-Japan-2014,87.1
+Protein,Asia-Japan-2014,87.1
+Fruit,Asia-Japan-2014,34500.0
+Sugar,Asia-Japan-2014,27400.0
+Veg,Asia-Japan-2014,94300.0
+Fat,Asia-Japan-2015,87.5
+Protein,Asia-Japan-2015,86.2
+Fruit,Asia-Japan-2015,33800.0
+Sugar,Asia-Japan-2015,27100.0
+Veg,Asia-Japan-2015,93900.0
+Fat,Asia-Japan-2016,86.5
+Protein,Asia-Japan-2016,85.7
+Fruit,Asia-Japan-2016,34000.0
+Sugar,Asia-Japan-2016,27000.0
+Veg,Asia-Japan-2016,92500.0
+Fat,Asia-Japan-2017,89.4
+Protein,Asia-Japan-2017,86.8
+Fruit,Asia-Japan-2017,33600.0
+Sugar,Asia-Japan-2017,25900.0
+Veg,Asia-Japan-2017,92900.0
+Fat,Asia-Japan-2018,89.1
+Protein,Asia-Japan-2018,87.5
+Fruit,Asia-Japan-2018,34100.0
+Sugar,Asia-Japan-2018,25800.0
+Veg,Asia-Japan-2018,94100.0
+Fat,Asia-Japan-2019,91.9
+Protein,Asia-Japan-2019,87.9
+Fruit,Asia-Japan-2019,33200.0
+Sugar,Asia-Japan-2019,29000.0
+Veg,Asia-Japan-2019,96900.0
+Fat,Asia-Japan-2020,90.7
+Protein,Asia-Japan-2020,88.3
+Fruit,Asia-Japan-2020,33200.0
+Sugar,Asia-Japan-2020,27800.0
+Veg,Asia-Japan-2020,94300.0
+Fat,Australia-Australia-2010,151.3
+Protein,Australia-Australia-2010,110.9
+Fruit,Australia-Australia-2010,80400.0
+Sugar,Australia-Australia-2010,131000.0
+Veg,Australia-Australia-2010,98800.0
+Fat,Australia-Australia-2011,155.2
+Protein,Australia-Australia-2011,110.7
+Fruit,Australia-Australia-2011,74200.0
+Sugar,Australia-Australia-2011,129500.0
+Veg,Australia-Australia-2011,93300.0
+Fat,Australia-Australia-2012,156.4
+Protein,Australia-Australia-2012,110.1
+Fruit,Australia-Australia-2012,75900.0
+Sugar,Australia-Australia-2012,129600.0
+Veg,Australia-Australia-2012,96400.0
+Fat,Australia-Australia-2013,152.7
+Protein,Australia-Australia-2013,109.4
+Fruit,Australia-Australia-2013,73500.0
+Sugar,Australia-Australia-2013,129699.99999999999
+Veg,Australia-Australia-2013,101900.0
+Fat,Australia-Australia-2014,158.2
+Protein,Australia-Australia-2014,107.8
+Fruit,Australia-Australia-2014,71000.0
+Sugar,Australia-Australia-2014,43900.0
+Veg,Australia-Australia-2014,86700.0
+Fat,Australia-Australia-2015,159.5
+Protein,Australia-Australia-2015,108.2
+Fruit,Australia-Australia-2015,70800.0
+Sugar,Australia-Australia-2015,42500.0
+Veg,Australia-Australia-2015,90000.0
+Fat,Australia-Australia-2016,160.7
+Protein,Australia-Australia-2016,109.0
+Fruit,Australia-Australia-2016,76800.0
+Sugar,Australia-Australia-2016,44100.0
+Veg,Australia-Australia-2016,93500.0
+Fat,Australia-Australia-2017,159.0
+Protein,Australia-Australia-2017,106.7
+Fruit,Australia-Australia-2017,75400.0
+Sugar,Australia-Australia-2017,43300.0
+Veg,Australia-Australia-2017,94000.0
+Fat,Australia-Australia-2018,160.6
+Protein,Australia-Australia-2018,107.8
+Fruit,Australia-Australia-2018,70600.0
+Sugar,Australia-Australia-2018,41700.0
+Veg,Australia-Australia-2018,89900.0
+Fat,Australia-Australia-2019,160.9
+Protein,Australia-Australia-2019,110.9
+Fruit,Australia-Australia-2019,65500.0
+Sugar,Australia-Australia-2019,41200.0
+Veg,Australia-Australia-2019,86200.0
+Fat,Australia-Australia-2020,155.7
+Protein,Australia-Australia-2020,114.9
+Fruit,Australia-Australia-2020,71100.0
+Sugar,Australia-Australia-2020,41200.0
+Veg,Australia-Australia-2020,81000.0
+Fat,Australia-New Zealand-2010,116.6
+Protein,Australia-New Zealand-2010,87.6
+Fruit,Australia-New Zealand-2010,60200.0
+Sugar,Australia-New Zealand-2010,58200.0
+Veg,Australia-New Zealand-2010,113400.0
+Fat,Australia-New Zealand-2011,132.5
+Protein,Australia-New Zealand-2011,96.3
+Fruit,Australia-New Zealand-2011,59000.0
+Sugar,Australia-New Zealand-2011,57100.0
+Veg,Australia-New Zealand-2011,124700.0
+Fat,Australia-New Zealand-2012,119.6
+Protein,Australia-New Zealand-2012,90.8
+Fruit,Australia-New Zealand-2012,61100.0
+Sugar,Australia-New Zealand-2012,56700.0
+Veg,Australia-New Zealand-2012,126200.0
+Fat,Australia-New Zealand-2013,124.6
+Protein,Australia-New Zealand-2013,93.3
+Fruit,Australia-New Zealand-2013,70400.0
+Sugar,Australia-New Zealand-2013,56700.0
+Veg,Australia-New Zealand-2013,115800.0
+Fat,Australia-New Zealand-2014,114.3
+Protein,Australia-New Zealand-2014,91.7
+Fruit,Australia-New Zealand-2014,66800.0
+Sugar,Australia-New Zealand-2014,57900.0
+Veg,Australia-New Zealand-2014,124600.0
+Fat,Australia-New Zealand-2015,113.5
+Protein,Australia-New Zealand-2015,91.5
+Fruit,Australia-New Zealand-2015,65700.0
+Sugar,Australia-New Zealand-2015,57900.0
+Veg,Australia-New Zealand-2015,125700.0
+Fat,Australia-New Zealand-2016,114.0
+Protein,Australia-New Zealand-2016,96.0
+Fruit,Australia-New Zealand-2016,73100.0
+Sugar,Australia-New Zealand-2016,53500.0
+Veg,Australia-New Zealand-2016,122600.0
+Fat,Australia-New Zealand-2017,113.9
+Protein,Australia-New Zealand-2017,92.2
+Fruit,Australia-New Zealand-2017,67000.0
+Sugar,Australia-New Zealand-2017,55600.0
+Veg,Australia-New Zealand-2017,117100.0
+Fat,Australia-New Zealand-2018,118.4
+Protein,Australia-New Zealand-2018,98.3
+Fruit,Australia-New Zealand-2018,63100.0
+Sugar,Australia-New Zealand-2018,55800.0
+Veg,Australia-New Zealand-2018,132600.0
+Fat,Australia-New Zealand-2019,117.0
+Protein,Australia-New Zealand-2019,97.4
+Fruit,Australia-New Zealand-2019,61900.0
+Sugar,Australia-New Zealand-2019,61100.0
+Veg,Australia-New Zealand-2019,110600.0
+Fat,Australia-New Zealand-2020,122.5
+Protein,Australia-New Zealand-2020,93.4
+Fruit,Australia-New Zealand-2020,54400.0
+Sugar,Australia-New Zealand-2020,62100.0
+Veg,Australia-New Zealand-2020,90300.0
+Fat,Eastern Europe-Bulgaria-2010,94.7
+Protein,Eastern Europe-Bulgaria-2010,80.4
+Fruit,Eastern Europe-Bulgaria-2010,38300.0
+Sugar,Eastern Europe-Bulgaria-2010,35800.0
+Veg,Eastern Europe-Bulgaria-2010,72700.0
+Fat,Eastern Europe-Bulgaria-2011,91.0
+Protein,Eastern Europe-Bulgaria-2011,80.7
+Fruit,Eastern Europe-Bulgaria-2011,49700.0
+Sugar,Eastern Europe-Bulgaria-2011,36000.0
+Veg,Eastern Europe-Bulgaria-2011,68200.0
+Fat,Eastern Europe-Bulgaria-2012,89.4
+Protein,Eastern Europe-Bulgaria-2012,81.4
+Fruit,Eastern Europe-Bulgaria-2012,44600.0
+Sugar,Eastern Europe-Bulgaria-2012,29400.0
+Veg,Eastern Europe-Bulgaria-2012,60000.0
+Fat,Eastern Europe-Bulgaria-2013,89.7
+Protein,Eastern Europe-Bulgaria-2013,82.1
+Fruit,Eastern Europe-Bulgaria-2013,61500.0
+Sugar,Eastern Europe-Bulgaria-2013,39200.0
+Veg,Eastern Europe-Bulgaria-2013,67700.0
+Fat,Eastern Europe-Bulgaria-2014,88.2
+Protein,Eastern Europe-Bulgaria-2014,85.5
+Fruit,Eastern Europe-Bulgaria-2014,41400.0
+Sugar,Eastern Europe-Bulgaria-2014,34100.0
+Veg,Eastern Europe-Bulgaria-2014,67800.0
+Fat,Eastern Europe-Bulgaria-2015,92.6
+Protein,Eastern Europe-Bulgaria-2015,81.7
+Fruit,Eastern Europe-Bulgaria-2015,49700.0
+Sugar,Eastern Europe-Bulgaria-2015,34000.0
+Veg,Eastern Europe-Bulgaria-2015,76800.0
+Fat,Eastern Europe-Bulgaria-2016,92.6
+Protein,Eastern Europe-Bulgaria-2016,85.1
+Fruit,Eastern Europe-Bulgaria-2016,49400.0
+Sugar,Eastern Europe-Bulgaria-2016,34500.0
+Veg,Eastern Europe-Bulgaria-2016,93100.0
+Fat,Eastern Europe-Bulgaria-2017,93.4
+Protein,Eastern Europe-Bulgaria-2017,85.5
+Fruit,Eastern Europe-Bulgaria-2017,53700.0
+Sugar,Eastern Europe-Bulgaria-2017,34500.0
+Veg,Eastern Europe-Bulgaria-2017,90800.0
+Fat,Eastern Europe-Bulgaria-2018,106.3
+Protein,Eastern Europe-Bulgaria-2018,83.6
+Fruit,Eastern Europe-Bulgaria-2018,58600.0
+Sugar,Eastern Europe-Bulgaria-2018,34600.0
+Veg,Eastern Europe-Bulgaria-2018,96600.0
+Fat,Eastern Europe-Bulgaria-2019,115.3
+Protein,Eastern Europe-Bulgaria-2019,81.1
+Fruit,Eastern Europe-Bulgaria-2019,60300.0
+Sugar,Eastern Europe-Bulgaria-2019,37400.0
+Veg,Eastern Europe-Bulgaria-2019,99100.0
+Fat,Eastern Europe-Bulgaria-2020,125.8
+Protein,Eastern Europe-Bulgaria-2020,78.8
+Fruit,Eastern Europe-Bulgaria-2020,59400.0
+Sugar,Eastern Europe-Bulgaria-2020,37700.0
+Veg,Eastern Europe-Bulgaria-2020,87000.0
+Fat,Eastern Europe-Croatia-2010,104.4
+Protein,Eastern Europe-Croatia-2010,80.7
+Fruit,Eastern Europe-Croatia-2010,98600.0
+Sugar,Eastern Europe-Croatia-2010,53800.0
+Veg,Eastern Europe-Croatia-2010,69200.0
+Fat,Eastern Europe-Croatia-2011,105.3
+Protein,Eastern Europe-Croatia-2011,81.7
+Fruit,Eastern Europe-Croatia-2011,100200.0
+Sugar,Eastern Europe-Croatia-2011,52200.0
+Veg,Eastern Europe-Croatia-2011,71900.0
+Fat,Eastern Europe-Croatia-2012,114.0
+Protein,Eastern Europe-Croatia-2012,83.6
+Fruit,Eastern Europe-Croatia-2012,87000.0
+Sugar,Eastern Europe-Croatia-2012,46900.0
+Veg,Eastern Europe-Croatia-2012,60100.0
+Fat,Eastern Europe-Croatia-2013,118.5
+Protein,Eastern Europe-Croatia-2013,84.4
+Fruit,Eastern Europe-Croatia-2013,98400.0
+Sugar,Eastern Europe-Croatia-2013,43200.0
+Veg,Eastern Europe-Croatia-2013,70400.0
+Fat,Eastern Europe-Croatia-2014,108.2
+Protein,Eastern Europe-Croatia-2014,84.8
+Fruit,Eastern Europe-Croatia-2014,76900.0
+Sugar,Eastern Europe-Croatia-2014,56900.0
+Veg,Eastern Europe-Croatia-2014,62800.0
+Fat,Eastern Europe-Croatia-2015,111.8
+Protein,Eastern Europe-Croatia-2015,87.8
+Fruit,Eastern Europe-Croatia-2015,85500.0
+Sugar,Eastern Europe-Croatia-2015,52200.0
+Veg,Eastern Europe-Croatia-2015,76900.0
+Fat,Eastern Europe-Croatia-2016,115.2
+Protein,Eastern Europe-Croatia-2016,89.8
+Fruit,Eastern Europe-Croatia-2016,68500.0
+Sugar,Eastern Europe-Croatia-2016,53900.0
+Veg,Eastern Europe-Croatia-2016,263200.0
+Fat,Eastern Europe-Croatia-2017,114.3
+Protein,Eastern Europe-Croatia-2017,90.7
+Fruit,Eastern Europe-Croatia-2017,67500.0
+Sugar,Eastern Europe-Croatia-2017,61400.0
+Veg,Eastern Europe-Croatia-2017,255600.0
+Fat,Eastern Europe-Croatia-2018,115.7
+Protein,Eastern Europe-Croatia-2018,92.1
+Fruit,Eastern Europe-Croatia-2018,81000.0
+Sugar,Eastern Europe-Croatia-2018,59700.0
+Veg,Eastern Europe-Croatia-2018,301900.0
+Fat,Eastern Europe-Croatia-2019,121.7
+Protein,Eastern Europe-Croatia-2019,94.5
+Fruit,Eastern Europe-Croatia-2019,68700.0
+Sugar,Eastern Europe-Croatia-2019,86100.0
+Veg,Eastern Europe-Croatia-2019,287400.0
+Fat,Eastern Europe-Croatia-2020,120.0
+Protein,Eastern Europe-Croatia-2020,94.5
+Fruit,Eastern Europe-Croatia-2020,76100.0
+Sugar,Eastern Europe-Croatia-2020,79700.0
+Veg,Eastern Europe-Croatia-2020,349900.0
+Fat,Eastern Europe-Czechia-2010,137.7
+Protein,Eastern Europe-Czechia-2010,92.8
+Fruit,Eastern Europe-Czechia-2010,51900.0
+Sugar,Eastern Europe-Czechia-2010,50800.0
+Veg,Eastern Europe-Czechia-2010,66000.0
+Fat,Eastern Europe-Czechia-2011,133.3
+Protein,Eastern Europe-Czechia-2011,90.8
+Fruit,Eastern Europe-Czechia-2011,53300.0
+Sugar,Eastern Europe-Czechia-2011,60600.0
+Veg,Eastern Europe-Czechia-2011,70100.0
+Fat,Eastern Europe-Czechia-2012,137.0
+Protein,Eastern Europe-Czechia-2012,86.8
+Fruit,Eastern Europe-Czechia-2012,44600.0
+Sugar,Eastern Europe-Czechia-2012,65000.0
+Veg,Eastern Europe-Czechia-2012,64599.99999999999
+Fat,Eastern Europe-Czechia-2013,137.1
+Protein,Eastern Europe-Czechia-2013,87.4
+Fruit,Eastern Europe-Czechia-2013,51600.0
+Sugar,Eastern Europe-Czechia-2013,66200.0
+Veg,Eastern Europe-Czechia-2013,68300.0
+Fat,Eastern Europe-Czechia-2014,128.5
+Protein,Eastern Europe-Czechia-2014,87.4
+Fruit,Eastern Europe-Czechia-2014,50500.0
+Sugar,Eastern Europe-Czechia-2014,56300.0
+Veg,Eastern Europe-Czechia-2014,73500.0
+Fat,Eastern Europe-Czechia-2015,125.0
+Protein,Eastern Europe-Czechia-2015,87.4
+Fruit,Eastern Europe-Czechia-2015,56300.0
+Sugar,Eastern Europe-Czechia-2015,48200.0
+Veg,Eastern Europe-Czechia-2015,72900.0
+Fat,Eastern Europe-Czechia-2016,137.3
+Protein,Eastern Europe-Czechia-2016,88.6
+Fruit,Eastern Europe-Czechia-2016,54600.0
+Sugar,Eastern Europe-Czechia-2016,46700.0
+Veg,Eastern Europe-Czechia-2016,79500.0
+Fat,Eastern Europe-Czechia-2017,140.9
+Protein,Eastern Europe-Czechia-2017,86.9
+Fruit,Eastern Europe-Czechia-2017,58900.0
+Sugar,Eastern Europe-Czechia-2017,49100.0
+Veg,Eastern Europe-Czechia-2017,80700.0
+Fat,Eastern Europe-Czechia-2018,146.0
+Protein,Eastern Europe-Czechia-2018,86.4
+Fruit,Eastern Europe-Czechia-2018,61900.0
+Sugar,Eastern Europe-Czechia-2018,43700.0
+Veg,Eastern Europe-Czechia-2018,76600.0
+Fat,Eastern Europe-Czechia-2019,150.6
+Protein,Eastern Europe-Czechia-2019,87.9
+Fruit,Eastern Europe-Czechia-2019,63500.0
+Sugar,Eastern Europe-Czechia-2019,41700.0
+Veg,Eastern Europe-Czechia-2019,72500.0
+Fat,Eastern Europe-Czechia-2020,152.3
+Protein,Eastern Europe-Czechia-2020,90.6
+Fruit,Eastern Europe-Czechia-2020,67500.0
+Sugar,Eastern Europe-Czechia-2020,35500.0
+Veg,Eastern Europe-Czechia-2020,75100.0
+Fat,Eastern Europe-Estonia-2010,92.0
+Protein,Eastern Europe-Estonia-2010,98.4
+Fruit,Eastern Europe-Estonia-2010,57400.0
+Sugar,Eastern Europe-Estonia-2010,73600.0
+Veg,Eastern Europe-Estonia-2010,100500.0
+Fat,Eastern Europe-Estonia-2011,88.9
+Protein,Eastern Europe-Estonia-2011,98.6
+Fruit,Eastern Europe-Estonia-2011,56500.0
+Sugar,Eastern Europe-Estonia-2011,72300.0
+Veg,Eastern Europe-Estonia-2011,111600.0
+Fat,Eastern Europe-Estonia-2012,93.8
+Protein,Eastern Europe-Estonia-2012,96.5
+Fruit,Eastern Europe-Estonia-2012,58400.0
+Sugar,Eastern Europe-Estonia-2012,74600.0
+Veg,Eastern Europe-Estonia-2012,94700.0
+Fat,Eastern Europe-Estonia-2013,90.6
+Protein,Eastern Europe-Estonia-2013,103.6
+Fruit,Eastern Europe-Estonia-2013,55800.0
+Sugar,Eastern Europe-Estonia-2013,67100.0
+Veg,Eastern Europe-Estonia-2013,104800.0
+Fat,Eastern Europe-Estonia-2014,106.6
+Protein,Eastern Europe-Estonia-2014,100.2
+Fruit,Eastern Europe-Estonia-2014,71400.0
+Sugar,Eastern Europe-Estonia-2014,61500.0
+Veg,Eastern Europe-Estonia-2014,96500.0
+Fat,Eastern Europe-Estonia-2015,120.1
+Protein,Eastern Europe-Estonia-2015,102.4
+Fruit,Eastern Europe-Estonia-2015,76500.0
+Sugar,Eastern Europe-Estonia-2015,54500.0
+Veg,Eastern Europe-Estonia-2015,111800.0
+Fat,Eastern Europe-Estonia-2016,119.4
+Protein,Eastern Europe-Estonia-2016,103.0
+Fruit,Eastern Europe-Estonia-2016,78000.0
+Sugar,Eastern Europe-Estonia-2016,48000.0
+Veg,Eastern Europe-Estonia-2016,100300.0
+Fat,Eastern Europe-Estonia-2017,119.4
+Protein,Eastern Europe-Estonia-2017,101.2
+Fruit,Eastern Europe-Estonia-2017,81900.0
+Sugar,Eastern Europe-Estonia-2017,45100.0
+Veg,Eastern Europe-Estonia-2017,101600.0
+Fat,Eastern Europe-Estonia-2018,125.2
+Protein,Eastern Europe-Estonia-2018,104.2
+Fruit,Eastern Europe-Estonia-2018,78800.0
+Sugar,Eastern Europe-Estonia-2018,52000.0
+Veg,Eastern Europe-Estonia-2018,105600.0
+Fat,Eastern Europe-Estonia-2019,140.3
+Protein,Eastern Europe-Estonia-2019,104.1
+Fruit,Eastern Europe-Estonia-2019,73500.0
+Sugar,Eastern Europe-Estonia-2019,55600.0
+Veg,Eastern Europe-Estonia-2019,82200.0
+Fat,Eastern Europe-Estonia-2020,133.7
+Protein,Eastern Europe-Estonia-2020,101.4
+Fruit,Eastern Europe-Estonia-2020,74700.0
+Sugar,Eastern Europe-Estonia-2020,68200.0
+Veg,Eastern Europe-Estonia-2020,80400.0
+Fat,Eastern Europe-Hungary-2010,136.7
+Protein,Eastern Europe-Hungary-2010,81.5
+Fruit,Eastern Europe-Hungary-2010,61400.0
+Sugar,Eastern Europe-Hungary-2010,34400.0
+Veg,Eastern Europe-Hungary-2010,68500.0
+Fat,Eastern Europe-Hungary-2011,136.0
+Protein,Eastern Europe-Hungary-2011,81.9
+Fruit,Eastern Europe-Hungary-2011,47900.0
+Sugar,Eastern Europe-Hungary-2011,35600.0
+Veg,Eastern Europe-Hungary-2011,91900.0
+Fat,Eastern Europe-Hungary-2012,132.7
+Protein,Eastern Europe-Hungary-2012,80.7
+Fruit,Eastern Europe-Hungary-2012,62300.0
+Sugar,Eastern Europe-Hungary-2012,35400.0
+Veg,Eastern Europe-Hungary-2012,80200.0
+Fat,Eastern Europe-Hungary-2013,137.6
+Protein,Eastern Europe-Hungary-2013,78.8
+Fruit,Eastern Europe-Hungary-2013,48000.0
+Sugar,Eastern Europe-Hungary-2013,34800.0
+Veg,Eastern Europe-Hungary-2013,78200.0
+Fat,Eastern Europe-Hungary-2014,138.1
+Protein,Eastern Europe-Hungary-2014,83.1
+Fruit,Eastern Europe-Hungary-2014,69000.0
+Sugar,Eastern Europe-Hungary-2014,40500.0
+Veg,Eastern Europe-Hungary-2014,90700.0
+Fat,Eastern Europe-Hungary-2015,147.8
+Protein,Eastern Europe-Hungary-2015,85.1
+Fruit,Eastern Europe-Hungary-2015,62200.0
+Sugar,Eastern Europe-Hungary-2015,41600.0
+Veg,Eastern Europe-Hungary-2015,93800.0
+Fat,Eastern Europe-Hungary-2016,149.6
+Protein,Eastern Europe-Hungary-2016,87.1
+Fruit,Eastern Europe-Hungary-2016,59700.0
+Sugar,Eastern Europe-Hungary-2016,40900.0
+Veg,Eastern Europe-Hungary-2016,91100.0
+Fat,Eastern Europe-Hungary-2017,152.0
+Protein,Eastern Europe-Hungary-2017,88.5
+Fruit,Eastern Europe-Hungary-2017,59600.0
+Sugar,Eastern Europe-Hungary-2017,40600.0
+Veg,Eastern Europe-Hungary-2017,87500.0
+Fat,Eastern Europe-Hungary-2018,157.6
+Protein,Eastern Europe-Hungary-2018,89.9
+Fruit,Eastern Europe-Hungary-2018,63400.0
+Sugar,Eastern Europe-Hungary-2018,40200.0
+Veg,Eastern Europe-Hungary-2018,91900.0
+Fat,Eastern Europe-Hungary-2019,148.8
+Protein,Eastern Europe-Hungary-2019,90.7
+Fruit,Eastern Europe-Hungary-2019,74200.0
+Sugar,Eastern Europe-Hungary-2019,52100.0
+Veg,Eastern Europe-Hungary-2019,89700.0
+Fat,Eastern Europe-Hungary-2020,151.3
+Protein,Eastern Europe-Hungary-2020,87.4
+Fruit,Eastern Europe-Hungary-2020,68300.0
+Sugar,Eastern Europe-Hungary-2020,55300.0
+Veg,Eastern Europe-Hungary-2020,86900.0
+Fat,Eastern Europe-Latvia-2010,120.0
+Protein,Eastern Europe-Latvia-2010,96.3
+Fruit,Eastern Europe-Latvia-2010,36200.0
+Sugar,Eastern Europe-Latvia-2010,49100.0
+Veg,Eastern Europe-Latvia-2010,101400.0
+Fat,Eastern Europe-Latvia-2011,119.9
+Protein,Eastern Europe-Latvia-2011,96.5
+Fruit,Eastern Europe-Latvia-2011,39300.0
+Sugar,Eastern Europe-Latvia-2011,53800.0
+Veg,Eastern Europe-Latvia-2011,106200.0
+Fat,Eastern Europe-Latvia-2012,118.0
+Protein,Eastern Europe-Latvia-2012,92.1
+Fruit,Eastern Europe-Latvia-2012,37300.0
+Sugar,Eastern Europe-Latvia-2012,57000.0
+Veg,Eastern Europe-Latvia-2012,104400.0
+Fat,Eastern Europe-Latvia-2013,119.5
+Protein,Eastern Europe-Latvia-2013,91.5
+Fruit,Eastern Europe-Latvia-2013,37500.0
+Sugar,Eastern Europe-Latvia-2013,59600.0
+Veg,Eastern Europe-Latvia-2013,108400.0
+Fat,Eastern Europe-Latvia-2014,122.5
+Protein,Eastern Europe-Latvia-2014,98.7
+Fruit,Eastern Europe-Latvia-2014,44800.0
+Sugar,Eastern Europe-Latvia-2014,57200.0
+Veg,Eastern Europe-Latvia-2014,126400.0
+Fat,Eastern Europe-Latvia-2015,125.0
+Protein,Eastern Europe-Latvia-2015,94.9
+Fruit,Eastern Europe-Latvia-2015,39400.0
+Sugar,Eastern Europe-Latvia-2015,52300.0
+Veg,Eastern Europe-Latvia-2015,132600.0
+Fat,Eastern Europe-Latvia-2016,124.0
+Protein,Eastern Europe-Latvia-2016,103.3
+Fruit,Eastern Europe-Latvia-2016,41800.0
+Sugar,Eastern Europe-Latvia-2016,48700.0
+Veg,Eastern Europe-Latvia-2016,133000.0
+Fat,Eastern Europe-Latvia-2017,127.5
+Protein,Eastern Europe-Latvia-2017,102.4
+Fruit,Eastern Europe-Latvia-2017,48500.0
+Sugar,Eastern Europe-Latvia-2017,49200.0
+Veg,Eastern Europe-Latvia-2017,117900.0
+Fat,Eastern Europe-Latvia-2018,128.1
+Protein,Eastern Europe-Latvia-2018,96.1
+Fruit,Eastern Europe-Latvia-2018,45900.0
+Sugar,Eastern Europe-Latvia-2018,58100.0
+Veg,Eastern Europe-Latvia-2018,114500.0
+Fat,Eastern Europe-Latvia-2019,135.3
+Protein,Eastern Europe-Latvia-2019,97.6
+Fruit,Eastern Europe-Latvia-2019,51800.0
+Sugar,Eastern Europe-Latvia-2019,54800.0
+Veg,Eastern Europe-Latvia-2019,89000.0
+Fat,Eastern Europe-Latvia-2020,141.6
+Protein,Eastern Europe-Latvia-2020,96.7
+Fruit,Eastern Europe-Latvia-2020,52000.0
+Sugar,Eastern Europe-Latvia-2020,62500.0
+Veg,Eastern Europe-Latvia-2020,101300.0
+Fat,Eastern Europe-Lithuania-2010,97.9
+Protein,Eastern Europe-Lithuania-2010,114.4
+Fruit,Eastern Europe-Lithuania-2010,28400.0
+Sugar,Eastern Europe-Lithuania-2010,85100.0
+Veg,Eastern Europe-Lithuania-2010,89600.0
+Fat,Eastern Europe-Lithuania-2011,98.5
+Protein,Eastern Europe-Lithuania-2011,113.4
+Fruit,Eastern Europe-Lithuania-2011,28000.0
+Sugar,Eastern Europe-Lithuania-2011,89900.0
+Veg,Eastern Europe-Lithuania-2011,104800.0
+Fat,Eastern Europe-Lithuania-2012,92.0
+Protein,Eastern Europe-Lithuania-2012,115.5
+Fruit,Eastern Europe-Lithuania-2012,39900.0
+Sugar,Eastern Europe-Lithuania-2012,89100.0
+Veg,Eastern Europe-Lithuania-2012,107500.0
+Fat,Eastern Europe-Lithuania-2013,92.4
+Protein,Eastern Europe-Lithuania-2013,116.8
+Fruit,Eastern Europe-Lithuania-2013,33300.0
+Sugar,Eastern Europe-Lithuania-2013,90200.0
+Veg,Eastern Europe-Lithuania-2013,103400.0
+Fat,Eastern Europe-Lithuania-2014,95.0
+Protein,Eastern Europe-Lithuania-2014,120.4
+Fruit,Eastern Europe-Lithuania-2014,41200.0
+Sugar,Eastern Europe-Lithuania-2014,92100.0
+Veg,Eastern Europe-Lithuania-2014,99400.0
+Fat,Eastern Europe-Lithuania-2015,97.3
+Protein,Eastern Europe-Lithuania-2015,122.2
+Fruit,Eastern Europe-Lithuania-2015,37200.0
+Sugar,Eastern Europe-Lithuania-2015,91000.0
+Veg,Eastern Europe-Lithuania-2015,79900.0
+Fat,Eastern Europe-Lithuania-2016,97.7
+Protein,Eastern Europe-Lithuania-2016,125.2
+Fruit,Eastern Europe-Lithuania-2016,53100.0
+Sugar,Eastern Europe-Lithuania-2016,92300.0
+Veg,Eastern Europe-Lithuania-2016,103200.0
+Fat,Eastern Europe-Lithuania-2017,101.7
+Protein,Eastern Europe-Lithuania-2017,126.9
+Fruit,Eastern Europe-Lithuania-2017,46300.0
+Sugar,Eastern Europe-Lithuania-2017,92600.0
+Veg,Eastern Europe-Lithuania-2017,95400.0
+Fat,Eastern Europe-Lithuania-2018,104.9
+Protein,Eastern Europe-Lithuania-2018,124.7
+Fruit,Eastern Europe-Lithuania-2018,53000.0
+Sugar,Eastern Europe-Lithuania-2018,94600.0
+Veg,Eastern Europe-Lithuania-2018,104700.0
+Fat,Eastern Europe-Lithuania-2019,121.9
+Protein,Eastern Europe-Lithuania-2019,123.4
+Fruit,Eastern Europe-Lithuania-2019,42700.0
+Sugar,Eastern Europe-Lithuania-2019,95100.0
+Veg,Eastern Europe-Lithuania-2019,96700.0
+Fat,Eastern Europe-Lithuania-2020,125.5
+Protein,Eastern Europe-Lithuania-2020,127.2
+Fruit,Eastern Europe-Lithuania-2020,48500.0
+Sugar,Eastern Europe-Lithuania-2020,97300.0
+Veg,Eastern Europe-Lithuania-2020,88500.0
+Fat,Eastern Europe-Poland-2010,121.0
+Protein,Eastern Europe-Poland-2010,103.4
+Fruit,Eastern Europe-Poland-2010,47500.0
+Sugar,Eastern Europe-Poland-2010,44900.0
+Veg,Eastern Europe-Poland-2010,110100.0
+Fat,Eastern Europe-Poland-2011,124.1
+Protein,Eastern Europe-Poland-2011,102.9
+Fruit,Eastern Europe-Poland-2011,56300.0
+Sugar,Eastern Europe-Poland-2011,45600.0
+Veg,Eastern Europe-Poland-2011,126800.0
+Fat,Eastern Europe-Poland-2012,123.1
+Protein,Eastern Europe-Poland-2012,101.8
+Fruit,Eastern Europe-Poland-2012,52700.0
+Sugar,Eastern Europe-Poland-2012,45800.0
+Veg,Eastern Europe-Poland-2012,116100.0
+Fat,Eastern Europe-Poland-2013,118.9
+Protein,Eastern Europe-Poland-2013,101.1
+Fruit,Eastern Europe-Poland-2013,54900.0
+Sugar,Eastern Europe-Poland-2013,45500.0
+Veg,Eastern Europe-Poland-2013,106300.0
+Fat,Eastern Europe-Poland-2014,119.2
+Protein,Eastern Europe-Poland-2014,100.4
+Fruit,Eastern Europe-Poland-2014,50100.0
+Sugar,Eastern Europe-Poland-2014,44800.0
+Veg,Eastern Europe-Poland-2014,120700.0
+Fat,Eastern Europe-Poland-2015,122.4
+Protein,Eastern Europe-Poland-2015,100.9
+Fruit,Eastern Europe-Poland-2015,59000.0
+Sugar,Eastern Europe-Poland-2015,40900.0
+Veg,Eastern Europe-Poland-2015,105300.0
+Fat,Eastern Europe-Poland-2016,123.9
+Protein,Eastern Europe-Poland-2016,103.9
+Fruit,Eastern Europe-Poland-2016,56600.0
+Sugar,Eastern Europe-Poland-2016,45500.0
+Veg,Eastern Europe-Poland-2016,121600.0
+Fat,Eastern Europe-Poland-2017,124.1
+Protein,Eastern Europe-Poland-2017,105.3
+Fruit,Eastern Europe-Poland-2017,53200.0
+Sugar,Eastern Europe-Poland-2017,46000.0
+Veg,Eastern Europe-Poland-2017,126500.0
+Fat,Eastern Europe-Poland-2018,128.0
+Protein,Eastern Europe-Poland-2018,105.9
+Fruit,Eastern Europe-Poland-2018,71800.0
+Sugar,Eastern Europe-Poland-2018,46300.0
+Veg,Eastern Europe-Poland-2018,119300.0
+Fat,Eastern Europe-Poland-2019,129.9
+Protein,Eastern Europe-Poland-2019,108.1
+Fruit,Eastern Europe-Poland-2019,57000.0
+Sugar,Eastern Europe-Poland-2019,44200.0
+Veg,Eastern Europe-Poland-2019,113800.0
+Fat,Eastern Europe-Poland-2020,133.2
+Protein,Eastern Europe-Poland-2020,110.1
+Fruit,Eastern Europe-Poland-2020,64800.0
+Sugar,Eastern Europe-Poland-2020,47100.0
+Veg,Eastern Europe-Poland-2020,107500.0
+Fat,Eastern Europe-Romania-2010,103.9
+Protein,Eastern Europe-Romania-2010,104.7
+Fruit,Eastern Europe-Romania-2010,67000.0
+Sugar,Eastern Europe-Romania-2010,25500.0
+Veg,Eastern Europe-Romania-2010,176000.0
+Fat,Eastern Europe-Romania-2011,102.8
+Protein,Eastern Europe-Romania-2011,104.0
+Fruit,Eastern Europe-Romania-2011,69900.0
+Sugar,Eastern Europe-Romania-2011,25000.0
+Veg,Eastern Europe-Romania-2011,184600.0
+Fat,Eastern Europe-Romania-2012,103.1
+Protein,Eastern Europe-Romania-2012,103.2
+Fruit,Eastern Europe-Romania-2012,68300.0
+Sugar,Eastern Europe-Romania-2012,25900.0
+Veg,Eastern Europe-Romania-2012,162300.0
+Fat,Eastern Europe-Romania-2013,103.0
+Protein,Eastern Europe-Romania-2013,102.8
+Fruit,Eastern Europe-Romania-2013,73300.0
+Sugar,Eastern Europe-Romania-2013,26200.0
+Veg,Eastern Europe-Romania-2013,178400.0
+Fat,Eastern Europe-Romania-2014,116.6
+Protein,Eastern Europe-Romania-2014,104.7
+Fruit,Eastern Europe-Romania-2014,82300.0
+Sugar,Eastern Europe-Romania-2014,27000.0
+Veg,Eastern Europe-Romania-2014,192500.0
+Fat,Eastern Europe-Romania-2015,119.8
+Protein,Eastern Europe-Romania-2015,108.2
+Fruit,Eastern Europe-Romania-2015,84000.0
+Sugar,Eastern Europe-Romania-2015,27900.0
+Veg,Eastern Europe-Romania-2015,190800.0
+Fat,Eastern Europe-Romania-2016,122.1
+Protein,Eastern Europe-Romania-2016,109.0
+Fruit,Eastern Europe-Romania-2016,88600.0
+Sugar,Eastern Europe-Romania-2016,29200.0
+Veg,Eastern Europe-Romania-2016,180300.0
+Fat,Eastern Europe-Romania-2017,123.3
+Protein,Eastern Europe-Romania-2017,109.1
+Fruit,Eastern Europe-Romania-2017,91700.0
+Sugar,Eastern Europe-Romania-2017,29700.0
+Veg,Eastern Europe-Romania-2017,193800.0
+Fat,Eastern Europe-Romania-2018,123.0
+Protein,Eastern Europe-Romania-2018,109.3
+Fruit,Eastern Europe-Romania-2018,107600.0
+Sugar,Eastern Europe-Romania-2018,29000.0
+Veg,Eastern Europe-Romania-2018,207200.0
+Fat,Eastern Europe-Romania-2019,125.7
+Protein,Eastern Europe-Romania-2019,106.2
+Fruit,Eastern Europe-Romania-2019,113200.0
+Sugar,Eastern Europe-Romania-2019,31000.0
+Veg,Eastern Europe-Romania-2019,142100.0
+Fat,Eastern Europe-Romania-2020,129.7
+Protein,Eastern Europe-Romania-2020,106.2
+Fruit,Eastern Europe-Romania-2020,117700.0
+Sugar,Eastern Europe-Romania-2020,29400.0
+Veg,Eastern Europe-Romania-2020,141600.0
+Fat,Eastern Europe-Slovenia-2010,121.8
+Protein,Eastern Europe-Slovenia-2010,100.5
+Fruit,Eastern Europe-Slovenia-2010,108200.0
+Sugar,Eastern Europe-Slovenia-2010,44200.0
+Veg,Eastern Europe-Slovenia-2010,68700.0
+Fat,Eastern Europe-Slovenia-2011,119.4
+Protein,Eastern Europe-Slovenia-2011,98.9
+Fruit,Eastern Europe-Slovenia-2011,107900.0
+Sugar,Eastern Europe-Slovenia-2011,43100.0
+Veg,Eastern Europe-Slovenia-2011,74400.0
+Fat,Eastern Europe-Slovenia-2012,118.9
+Protein,Eastern Europe-Slovenia-2012,98.3
+Fruit,Eastern Europe-Slovenia-2012,93400.0
+Sugar,Eastern Europe-Slovenia-2012,48100.0
+Veg,Eastern Europe-Slovenia-2012,69600.0
+Fat,Eastern Europe-Slovenia-2013,119.5
+Protein,Eastern Europe-Slovenia-2013,96.2
+Fruit,Eastern Europe-Slovenia-2013,101300.0
+Sugar,Eastern Europe-Slovenia-2013,46600.0
+Veg,Eastern Europe-Slovenia-2013,73900.0
+Fat,Eastern Europe-Slovenia-2014,113.6
+Protein,Eastern Europe-Slovenia-2014,98.9
+Fruit,Eastern Europe-Slovenia-2014,111500.0
+Sugar,Eastern Europe-Slovenia-2014,46300.0
+Veg,Eastern Europe-Slovenia-2014,78500.0
+Fat,Eastern Europe-Slovenia-2015,111.6
+Protein,Eastern Europe-Slovenia-2015,97.4
+Fruit,Eastern Europe-Slovenia-2015,111400.0
+Sugar,Eastern Europe-Slovenia-2015,49400.0
+Veg,Eastern Europe-Slovenia-2015,87400.0
+Fat,Eastern Europe-Slovenia-2016,114.6
+Protein,Eastern Europe-Slovenia-2016,98.6
+Fruit,Eastern Europe-Slovenia-2016,106300.0
+Sugar,Eastern Europe-Slovenia-2016,45600.0
+Veg,Eastern Europe-Slovenia-2016,92100.0
+Fat,Eastern Europe-Slovenia-2017,115.4
+Protein,Eastern Europe-Slovenia-2017,97.5
+Fruit,Eastern Europe-Slovenia-2017,101300.0
+Sugar,Eastern Europe-Slovenia-2017,51200.0
+Veg,Eastern Europe-Slovenia-2017,90400.0
+Fat,Eastern Europe-Slovenia-2018,114.4
+Protein,Eastern Europe-Slovenia-2018,95.9
+Fruit,Eastern Europe-Slovenia-2018,128300.00000000001
+Sugar,Eastern Europe-Slovenia-2018,45000.0
+Veg,Eastern Europe-Slovenia-2018,89300.0
+Fat,Eastern Europe-Slovenia-2019,114.4
+Protein,Eastern Europe-Slovenia-2019,98.0
+Fruit,Eastern Europe-Slovenia-2019,104100.0
+Sugar,Eastern Europe-Slovenia-2019,44700.0
+Veg,Eastern Europe-Slovenia-2019,99300.0
+Fat,Eastern Europe-Slovenia-2020,116.6
+Protein,Eastern Europe-Slovenia-2020,99.1
+Fruit,Eastern Europe-Slovenia-2020,109900.0
+Sugar,Eastern Europe-Slovenia-2020,40700.0
+Veg,Eastern Europe-Slovenia-2020,105100.0
+Fat,North America-Canada-2010,144.8
+Protein,North America-Canada-2010,102.1
+Fruit,North America-Canada-2010,94800.0
+Sugar,North America-Canada-2010,93400.0
+Veg,North America-Canada-2010,104700.0
+Fat,North America-Canada-2011,150.2
+Protein,North America-Canada-2011,101.5
+Fruit,North America-Canada-2011,96100.0
+Sugar,North America-Canada-2011,93200.0
+Veg,North America-Canada-2011,107600.0
+Fat,North America-Canada-2012,141.7
+Protein,North America-Canada-2012,103.5
+Fruit,North America-Canada-2012,97300.0
+Sugar,North America-Canada-2012,93100.0
+Veg,North America-Canada-2012,109000.0
+Fat,North America-Canada-2013,142.7
+Protein,North America-Canada-2013,102.2
+Fruit,North America-Canada-2013,99300.0
+Sugar,North America-Canada-2013,93100.0
+Veg,North America-Canada-2013,105000.0
+Fat,North America-Canada-2014,157.1
+Protein,North America-Canada-2014,98.7
+Fruit,North America-Canada-2014,96100.0
+Sugar,North America-Canada-2014,93500.0
+Veg,North America-Canada-2014,105400.0
+Fat,North America-Canada-2015,158.5
+Protein,North America-Canada-2015,97.6
+Fruit,North America-Canada-2015,93100.0
+Sugar,North America-Canada-2015,93100.0
+Veg,North America-Canada-2015,103400.0
+Fat,North America-Canada-2016,157.5
+Protein,North America-Canada-2016,102.4
+Fruit,North America-Canada-2016,99400.0
+Sugar,North America-Canada-2016,90400.0
+Veg,North America-Canada-2016,104800.0
+Fat,North America-Canada-2017,157.5
+Protein,North America-Canada-2017,104.7
+Fruit,North America-Canada-2017,97000.0
+Sugar,North America-Canada-2017,84300.0
+Veg,North America-Canada-2017,101900.0
+Fat,North America-Canada-2018,159.2
+Protein,North America-Canada-2018,108.0
+Fruit,North America-Canada-2018,96900.0
+Sugar,North America-Canada-2018,56500.0
+Veg,North America-Canada-2018,101600.0
+Fat,North America-Canada-2019,158.3
+Protein,North America-Canada-2019,107.1
+Fruit,North America-Canada-2019,94900.0
+Sugar,North America-Canada-2019,50500.0
+Veg,North America-Canada-2019,101300.0
+Fat,North America-Canada-2020,161.7
+Protein,North America-Canada-2020,106.7
+Fruit,North America-Canada-2020,92800.0
+Sugar,North America-Canada-2020,49800.0
+Veg,North America-Canada-2020,99600.0
+Fat,North America-Costa Rica-2010,87.9
+Protein,North America-Costa Rica-2010,75.6
+Fruit,North America-Costa Rica-2010,69800.0
+Sugar,North America-Costa Rica-2010,56200.0
+Veg,North America-Costa Rica-2010,43300.0
+Fat,North America-Costa Rica-2011,90.0
+Protein,North America-Costa Rica-2011,74.3
+Fruit,North America-Costa Rica-2011,104800.0
+Sugar,North America-Costa Rica-2011,55500.0
+Veg,North America-Costa Rica-2011,41800.0
+Fat,North America-Costa Rica-2012,87.5
+Protein,North America-Costa Rica-2012,74.3
+Fruit,North America-Costa Rica-2012,123300.0
+Sugar,North America-Costa Rica-2012,55500.0
+Veg,North America-Costa Rica-2012,40600.0
+Fat,North America-Costa Rica-2013,90.3
+Protein,North America-Costa Rica-2013,73.8
+Fruit,North America-Costa Rica-2013,100900.0
+Sugar,North America-Costa Rica-2013,54100.0
+Veg,North America-Costa Rica-2013,43200.0
+Fat,North America-Costa Rica-2014,91.4
+Protein,North America-Costa Rica-2014,76.7
+Fruit,North America-Costa Rica-2014,104600.0
+Sugar,North America-Costa Rica-2014,53800.0
+Veg,North America-Costa Rica-2014,46600.0
+Fat,North America-Costa Rica-2015,94.3
+Protein,North America-Costa Rica-2015,75.9
+Fruit,North America-Costa Rica-2015,123500.0
+Sugar,North America-Costa Rica-2015,53300.0
+Veg,North America-Costa Rica-2015,56500.0
+Fat,North America-Costa Rica-2016,97.4
+Protein,North America-Costa Rica-2016,79.4
+Fruit,North America-Costa Rica-2016,135900.0
+Sugar,North America-Costa Rica-2016,56400.0
+Veg,North America-Costa Rica-2016,49500.0
+Fat,North America-Costa Rica-2017,106.1
+Protein,North America-Costa Rica-2017,80.4
+Fruit,North America-Costa Rica-2017,122900.0
+Sugar,North America-Costa Rica-2017,52100.0
+Veg,North America-Costa Rica-2017,55600.0
+Fat,North America-Costa Rica-2018,103.5
+Protein,North America-Costa Rica-2018,81.7
+Fruit,North America-Costa Rica-2018,122800.0
+Sugar,North America-Costa Rica-2018,52500.0
+Veg,North America-Costa Rica-2018,57700.0
+Fat,North America-Costa Rica-2019,103.9
+Protein,North America-Costa Rica-2019,85.0
+Fruit,North America-Costa Rica-2019,87300.0
+Sugar,North America-Costa Rica-2019,49800.0
+Veg,North America-Costa Rica-2019,36000.0
+Fat,North America-Costa Rica-2020,105.6
+Protein,North America-Costa Rica-2020,84.6
+Fruit,North America-Costa Rica-2020,80800.0
+Sugar,North America-Costa Rica-2020,50500.0
+Veg,North America-Costa Rica-2020,32900.0
+Fat,North America-Mexico-2010,96.2
+Protein,North America-Mexico-2010,88.4
+Fruit,North America-Mexico-2010,104500.0
+Sugar,North America-Mexico-2010,52100.0
+Veg,North America-Mexico-2010,57200.0
+Fat,North America-Mexico-2011,96.9
+Protein,North America-Mexico-2011,87.4
+Fruit,North America-Mexico-2011,109100.0
+Sugar,North America-Mexico-2011,51100.0
+Veg,North America-Mexico-2011,52000.0
+Fat,North America-Mexico-2012,97.6
+Protein,North America-Mexico-2012,87.8
+Fruit,North America-Mexico-2012,104600.0
+Sugar,North America-Mexico-2012,51000.0
+Veg,North America-Mexico-2012,59100.0
+Fat,North America-Mexico-2013,97.5
+Protein,North America-Mexico-2013,89.0
+Fruit,North America-Mexico-2013,110800.0
+Sugar,North America-Mexico-2013,49500.0
+Veg,North America-Mexico-2013,54300.0
+Fat,North America-Mexico-2014,97.3
+Protein,North America-Mexico-2014,89.7
+Fruit,North America-Mexico-2014,106400.0
+Sugar,North America-Mexico-2014,48500.0
+Veg,North America-Mexico-2014,56800.0
+Fat,North America-Mexico-2015,98.8
+Protein,North America-Mexico-2015,89.8
+Fruit,North America-Mexico-2015,110300.0
+Sugar,North America-Mexico-2015,49400.0
+Veg,North America-Mexico-2015,59900.0
+Fat,North America-Mexico-2016,100.2
+Protein,North America-Mexico-2016,90.3
+Fruit,North America-Mexico-2016,114300.0
+Sugar,North America-Mexico-2016,50200.0
+Veg,North America-Mexico-2016,64000.0
+Fat,North America-Mexico-2017,101.0
+Protein,North America-Mexico-2017,90.5
+Fruit,North America-Mexico-2017,110800.0
+Sugar,North America-Mexico-2017,49400.0
+Veg,North America-Mexico-2017,72300.0
+Fat,North America-Mexico-2018,103.4
+Protein,North America-Mexico-2018,91.6
+Fruit,North America-Mexico-2018,116300.0
+Sugar,North America-Mexico-2018,46400.0
+Veg,North America-Mexico-2018,75800.0
+Fat,North America-Mexico-2019,105.6
+Protein,North America-Mexico-2019,92.1
+Fruit,North America-Mexico-2019,119000.0
+Sugar,North America-Mexico-2019,44100.0
+Veg,North America-Mexico-2019,65000.0
+Fat,North America-Mexico-2020,103.8
+Protein,North America-Mexico-2020,91.2
+Fruit,North America-Mexico-2020,120500.0
+Sugar,North America-Mexico-2020,43600.0
+Veg,North America-Mexico-2020,62000.0
+Fat,Northern Europe-Denmark-2010,126.8
+Protein,Northern Europe-Denmark-2010,109.5
+Fruit,Northern Europe-Denmark-2010,81300.0
+Sugar,Northern Europe-Denmark-2010,54400.0
+Veg,Northern Europe-Denmark-2010,111400.0
+Fat,Northern Europe-Denmark-2011,129.9
+Protein,Northern Europe-Denmark-2011,104.3
+Fruit,Northern Europe-Denmark-2011,77300.0
+Sugar,Northern Europe-Denmark-2011,56800.0
+Veg,Northern Europe-Denmark-2011,110700.0
+Fat,Northern Europe-Denmark-2012,129.1
+Protein,Northern Europe-Denmark-2012,109.2
+Fruit,Northern Europe-Denmark-2012,59000.0
+Sugar,Northern Europe-Denmark-2012,55500.0
+Veg,Northern Europe-Denmark-2012,98900.0
+Fat,Northern Europe-Denmark-2013,131.4
+Protein,Northern Europe-Denmark-2013,111.1
+Fruit,Northern Europe-Denmark-2013,59000.0
+Sugar,Northern Europe-Denmark-2013,56200.0
+Veg,Northern Europe-Denmark-2013,96700.0
+Fat,Northern Europe-Denmark-2014,131.4
+Protein,Northern Europe-Denmark-2014,108.7
+Fruit,Northern Europe-Denmark-2014,58900.0
+Sugar,Northern Europe-Denmark-2014,54800.0
+Veg,Northern Europe-Denmark-2014,97500.0
+Fat,Northern Europe-Denmark-2015,131.4
+Protein,Northern Europe-Denmark-2015,109.6
+Fruit,Northern Europe-Denmark-2015,58000.0
+Sugar,Northern Europe-Denmark-2015,54900.0
+Veg,Northern Europe-Denmark-2015,93400.0
+Fat,Northern Europe-Denmark-2016,133.7
+Protein,Northern Europe-Denmark-2016,114.3
+Fruit,Northern Europe-Denmark-2016,56900.0
+Sugar,Northern Europe-Denmark-2016,54900.0
+Veg,Northern Europe-Denmark-2016,97400.0
+Fat,Northern Europe-Denmark-2017,133.2
+Protein,Northern Europe-Denmark-2017,115.6
+Fruit,Northern Europe-Denmark-2017,59600.0
+Sugar,Northern Europe-Denmark-2017,55300.0
+Veg,Northern Europe-Denmark-2017,101400.0
+Fat,Northern Europe-Denmark-2018,136.9
+Protein,Northern Europe-Denmark-2018,118.0
+Fruit,Northern Europe-Denmark-2018,61700.0
+Sugar,Northern Europe-Denmark-2018,56000.0
+Veg,Northern Europe-Denmark-2018,104200.0
+Fat,Northern Europe-Denmark-2019,145.9
+Protein,Northern Europe-Denmark-2019,113.9
+Fruit,Northern Europe-Denmark-2019,59300.0
+Sugar,Northern Europe-Denmark-2019,54400.0
+Veg,Northern Europe-Denmark-2019,96000.0
+Fat,Northern Europe-Denmark-2020,144.6
+Protein,Northern Europe-Denmark-2020,110.8
+Fruit,Northern Europe-Denmark-2020,60400.0
+Sugar,Northern Europe-Denmark-2020,59200.0
+Veg,Northern Europe-Denmark-2020,94900.0
+Fat,Northern Europe-Finland-2010,133.3
+Protein,Northern Europe-Finland-2010,112.2
+Fruit,Northern Europe-Finland-2010,58300.0
+Sugar,Northern Europe-Finland-2010,40000.0
+Veg,Northern Europe-Finland-2010,76800.0
+Fat,Northern Europe-Finland-2011,137.7
+Protein,Northern Europe-Finland-2011,113.9
+Fruit,Northern Europe-Finland-2011,62900.0
+Sugar,Northern Europe-Finland-2011,39800.0
+Veg,Northern Europe-Finland-2011,82600.0
+Fat,Northern Europe-Finland-2012,141.3
+Protein,Northern Europe-Finland-2012,116.0
+Fruit,Northern Europe-Finland-2012,65400.00000000001
+Sugar,Northern Europe-Finland-2012,39800.0
+Veg,Northern Europe-Finland-2012,77400.0
+Fat,Northern Europe-Finland-2013,141.4
+Protein,Northern Europe-Finland-2013,116.4
+Fruit,Northern Europe-Finland-2013,62800.0
+Sugar,Northern Europe-Finland-2013,39800.0
+Veg,Northern Europe-Finland-2013,82900.0
+Fat,Northern Europe-Finland-2014,142.1
+Protein,Northern Europe-Finland-2014,118.0
+Fruit,Northern Europe-Finland-2014,68100.0
+Sugar,Northern Europe-Finland-2014,40200.0
+Veg,Northern Europe-Finland-2014,83900.0
+Fat,Northern Europe-Finland-2015,140.7
+Protein,Northern Europe-Finland-2015,118.2
+Fruit,Northern Europe-Finland-2015,70500.0
+Sugar,Northern Europe-Finland-2015,40300.0
+Veg,Northern Europe-Finland-2015,80500.0
+Fat,Northern Europe-Finland-2016,140.8
+Protein,Northern Europe-Finland-2016,117.6
+Fruit,Northern Europe-Finland-2016,71000.0
+Sugar,Northern Europe-Finland-2016,40300.0
+Veg,Northern Europe-Finland-2016,84000.0
+Fat,Northern Europe-Finland-2017,139.6
+Protein,Northern Europe-Finland-2017,118.2
+Fruit,Northern Europe-Finland-2017,70400.0
+Sugar,Northern Europe-Finland-2017,40400.0
+Veg,Northern Europe-Finland-2017,82200.0
+Fat,Northern Europe-Finland-2018,140.7
+Protein,Northern Europe-Finland-2018,118.5
+Fruit,Northern Europe-Finland-2018,71200.0
+Sugar,Northern Europe-Finland-2018,41500.0
+Veg,Northern Europe-Finland-2018,83700.0
+Fat,Northern Europe-Finland-2019,131.5
+Protein,Northern Europe-Finland-2019,119.5
+Fruit,Northern Europe-Finland-2019,72600.0
+Sugar,Northern Europe-Finland-2019,48800.0
+Veg,Northern Europe-Finland-2019,84500.0
+Fat,Northern Europe-Finland-2020,139.7
+Protein,Northern Europe-Finland-2020,117.9
+Fruit,Northern Europe-Finland-2020,71900.0
+Sugar,Northern Europe-Finland-2020,49600.0
+Veg,Northern Europe-Finland-2020,83500.0
+Fat,Northern Europe-Iceland-2010,145.2
+Protein,Northern Europe-Iceland-2010,128.5
+Fruit,Northern Europe-Iceland-2010,76900.0
+Sugar,Northern Europe-Iceland-2010,90100.0
+Veg,Northern Europe-Iceland-2010,60900.0
+Fat,Northern Europe-Iceland-2011,147.2
+Protein,Northern Europe-Iceland-2011,129.6
+Fruit,Northern Europe-Iceland-2011,78500.0
+Sugar,Northern Europe-Iceland-2011,84900.0
+Veg,Northern Europe-Iceland-2011,61900.0
+Fat,Northern Europe-Iceland-2012,148.9
+Protein,Northern Europe-Iceland-2012,129.7
+Fruit,Northern Europe-Iceland-2012,81200.0
+Sugar,Northern Europe-Iceland-2012,87500.0
+Veg,Northern Europe-Iceland-2012,64400.00000000001
+Fat,Northern Europe-Iceland-2013,152.4
+Protein,Northern Europe-Iceland-2013,128.8
+Fruit,Northern Europe-Iceland-2013,81600.0
+Sugar,Northern Europe-Iceland-2013,89900.0
+Veg,Northern Europe-Iceland-2013,63100.0
+Fat,Northern Europe-Iceland-2014,158.7
+Protein,Northern Europe-Iceland-2014,136.4
+Fruit,Northern Europe-Iceland-2014,83800.0
+Sugar,Northern Europe-Iceland-2014,48100.0
+Veg,Northern Europe-Iceland-2014,65200.0
+Fat,Northern Europe-Iceland-2015,164.1
+Protein,Northern Europe-Iceland-2015,140.5
+Fruit,Northern Europe-Iceland-2015,86500.0
+Sugar,Northern Europe-Iceland-2015,49800.0
+Veg,Northern Europe-Iceland-2015,65700.0
+Fat,Northern Europe-Iceland-2016,164.1
+Protein,Northern Europe-Iceland-2016,140.8
+Fruit,Northern Europe-Iceland-2016,88600.0
+Sugar,Northern Europe-Iceland-2016,52800.0
+Veg,Northern Europe-Iceland-2016,69200.0
+Fat,Northern Europe-Iceland-2017,168.3
+Protein,Northern Europe-Iceland-2017,144.8
+Fruit,Northern Europe-Iceland-2017,95300.0
+Sugar,Northern Europe-Iceland-2017,77700.0
+Veg,Northern Europe-Iceland-2017,73100.0
+Fat,Northern Europe-Iceland-2018,166.9
+Protein,Northern Europe-Iceland-2018,145.3
+Fruit,Northern Europe-Iceland-2018,90900.0
+Sugar,Northern Europe-Iceland-2018,82500.0
+Veg,Northern Europe-Iceland-2018,73700.0
+Fat,Northern Europe-Iceland-2019,176.1
+Protein,Northern Europe-Iceland-2019,144.3
+Fruit,Northern Europe-Iceland-2019,88300.0
+Sugar,Northern Europe-Iceland-2019,80500.0
+Veg,Northern Europe-Iceland-2019,76800.0
+Fat,Northern Europe-Iceland-2020,175.0
+Protein,Northern Europe-Iceland-2020,141.7
+Fruit,Northern Europe-Iceland-2020,81800.0
+Sugar,Northern Europe-Iceland-2020,89400.0
+Veg,Northern Europe-Iceland-2020,66000.0
+Fat,Northern Europe-Norway-2010,143.9
+Protein,Northern Europe-Norway-2010,117.6
+Fruit,Northern Europe-Norway-2010,80600.0
+Sugar,Northern Europe-Norway-2010,46400.0
+Veg,Northern Europe-Norway-2010,68400.0
+Fat,Northern Europe-Norway-2011,144.9
+Protein,Northern Europe-Norway-2011,116.2
+Fruit,Northern Europe-Norway-2011,80300.0
+Sugar,Northern Europe-Norway-2011,46100.0
+Veg,Northern Europe-Norway-2011,68400.0
+Fat,Northern Europe-Norway-2012,143.6
+Protein,Northern Europe-Norway-2012,116.4
+Fruit,Northern Europe-Norway-2012,80400.0
+Sugar,Northern Europe-Norway-2012,45600.0
+Veg,Northern Europe-Norway-2012,69100.0
+Fat,Northern Europe-Norway-2013,140.7
+Protein,Northern Europe-Norway-2013,114.8
+Fruit,Northern Europe-Norway-2013,80800.0
+Sugar,Northern Europe-Norway-2013,45500.0
+Veg,Northern Europe-Norway-2013,72200.0
+Fat,Northern Europe-Norway-2014,143.4
+Protein,Northern Europe-Norway-2014,111.2
+Fruit,Northern Europe-Norway-2014,81400.0
+Sugar,Northern Europe-Norway-2014,44800.0
+Veg,Northern Europe-Norway-2014,74500.0
+Fat,Northern Europe-Norway-2015,142.1
+Protein,Northern Europe-Norway-2015,112.5
+Fruit,Northern Europe-Norway-2015,79600.0
+Sugar,Northern Europe-Norway-2015,44500.0
+Veg,Northern Europe-Norway-2015,71900.0
+Fat,Northern Europe-Norway-2016,142.0
+Protein,Northern Europe-Norway-2016,112.3
+Fruit,Northern Europe-Norway-2016,80200.0
+Sugar,Northern Europe-Norway-2016,43400.0
+Veg,Northern Europe-Norway-2016,75100.0
+Fat,Northern Europe-Norway-2017,138.5
+Protein,Northern Europe-Norway-2017,113.8
+Fruit,Northern Europe-Norway-2017,80100.0
+Sugar,Northern Europe-Norway-2017,43000.0
+Veg,Northern Europe-Norway-2017,72600.0
+Fat,Northern Europe-Norway-2018,137.8
+Protein,Northern Europe-Norway-2018,116.1
+Fruit,Northern Europe-Norway-2018,78200.0
+Sugar,Northern Europe-Norway-2018,42700.0
+Veg,Northern Europe-Norway-2018,71400.0
+Fat,Northern Europe-Norway-2019,138.2
+Protein,Northern Europe-Norway-2019,116.6
+Fruit,Northern Europe-Norway-2019,76700.0
+Sugar,Northern Europe-Norway-2019,44700.0
+Veg,Northern Europe-Norway-2019,75700.0
+Fat,Northern Europe-Norway-2020,135.9
+Protein,Northern Europe-Norway-2020,118.4
+Fruit,Northern Europe-Norway-2020,74300.0
+Sugar,Northern Europe-Norway-2020,53900.0
+Veg,Northern Europe-Norway-2020,76600.0
+Fat,Northern Europe-Sweden-2010,129.8
+Protein,Northern Europe-Sweden-2010,108.5
+Fruit,Northern Europe-Sweden-2010,72200.0
+Sugar,Northern Europe-Sweden-2010,50000.0
+Veg,Northern Europe-Sweden-2010,78500.0
+Fat,Northern Europe-Sweden-2011,132.3
+Protein,Northern Europe-Sweden-2011,107.8
+Fruit,Northern Europe-Sweden-2011,68700.0
+Sugar,Northern Europe-Sweden-2011,52300.0
+Veg,Northern Europe-Sweden-2011,83500.0
+Fat,Northern Europe-Sweden-2012,134.4
+Protein,Northern Europe-Sweden-2012,105.9
+Fruit,Northern Europe-Sweden-2012,67300.0
+Sugar,Northern Europe-Sweden-2012,52900.0
+Veg,Northern Europe-Sweden-2012,87400.0
+Fat,Northern Europe-Sweden-2013,130.5
+Protein,Northern Europe-Sweden-2013,108.8
+Fruit,Northern Europe-Sweden-2013,68900.0
+Sugar,Northern Europe-Sweden-2013,54300.0
+Veg,Northern Europe-Sweden-2013,84200.0
+Fat,Northern Europe-Sweden-2014,135.0
+Protein,Northern Europe-Sweden-2014,108.1
+Fruit,Northern Europe-Sweden-2014,65800.0
+Sugar,Northern Europe-Sweden-2014,50600.0
+Veg,Northern Europe-Sweden-2014,88900.0
+Fat,Northern Europe-Sweden-2015,136.5
+Protein,Northern Europe-Sweden-2015,107.9
+Fruit,Northern Europe-Sweden-2015,66000.0
+Sugar,Northern Europe-Sweden-2015,48000.0
+Veg,Northern Europe-Sweden-2015,89700.0
+Fat,Northern Europe-Sweden-2016,138.0
+Protein,Northern Europe-Sweden-2016,106.7
+Fruit,Northern Europe-Sweden-2016,66700.0
+Sugar,Northern Europe-Sweden-2016,48100.0
+Veg,Northern Europe-Sweden-2016,89900.0
+Fat,Northern Europe-Sweden-2017,135.0
+Protein,Northern Europe-Sweden-2017,106.9
+Fruit,Northern Europe-Sweden-2017,63600.0
+Sugar,Northern Europe-Sweden-2017,48100.0
+Veg,Northern Europe-Sweden-2017,86100.0
+Fat,Northern Europe-Sweden-2018,132.8
+Protein,Northern Europe-Sweden-2018,105.2
+Fruit,Northern Europe-Sweden-2018,59500.0
+Sugar,Northern Europe-Sweden-2018,49100.0
+Veg,Northern Europe-Sweden-2018,83200.0
+Fat,Northern Europe-Sweden-2019,131.8
+Protein,Northern Europe-Sweden-2019,110.8
+Fruit,Northern Europe-Sweden-2019,59900.0
+Sugar,Northern Europe-Sweden-2019,46500.0
+Veg,Northern Europe-Sweden-2019,84600.0
+Fat,Northern Europe-Sweden-2020,134.2
+Protein,Northern Europe-Sweden-2020,109.8
+Fruit,Northern Europe-Sweden-2020,60200.0
+Sugar,Northern Europe-Sweden-2020,38000.0
+Veg,Northern Europe-Sweden-2020,88400.0
+Fat,South America-Argentina-2010,103.9
+Protein,South America-Argentina-2010,100.7
+Fruit,South America-Argentina-2010,70100.0
+Sugar,South America-Argentina-2010,47200.0
+Veg,South America-Argentina-2010,67700.0
+Fat,South America-Argentina-2011,105.8
+Protein,South America-Argentina-2011,99.7
+Fruit,South America-Argentina-2011,86800.0
+Sugar,South America-Argentina-2011,47200.0
+Veg,South America-Argentina-2011,65900.0
+Fat,South America-Argentina-2012,114.1
+Protein,South America-Argentina-2012,100.4
+Fruit,South America-Argentina-2012,83500.0
+Sugar,South America-Argentina-2012,46500.0
+Veg,South America-Argentina-2012,67800.0
+Fat,South America-Argentina-2013,111.6
+Protein,South America-Argentina-2013,103.8
+Fruit,South America-Argentina-2013,75700.0
+Sugar,South America-Argentina-2013,46600.0
+Veg,South America-Argentina-2013,66600.0
+Fat,South America-Argentina-2014,118.5
+Protein,South America-Argentina-2014,101.8
+Fruit,South America-Argentina-2014,85700.0
+Sugar,South America-Argentina-2014,46600.0
+Veg,South America-Argentina-2014,68500.0
+Fat,South America-Argentina-2015,120.4
+Protein,South America-Argentina-2015,106.9
+Fruit,South America-Argentina-2015,87900.0
+Sugar,South America-Argentina-2015,46300.0
+Veg,South America-Argentina-2015,69200.0
+Fat,South America-Argentina-2016,118.9
+Protein,South America-Argentina-2016,104.0
+Fruit,South America-Argentina-2016,75200.0
+Sugar,South America-Argentina-2016,46500.0
+Veg,South America-Argentina-2016,69400.0
+Fat,South America-Argentina-2017,118.4
+Protein,South America-Argentina-2017,105.7
+Fruit,South America-Argentina-2017,77300.0
+Sugar,South America-Argentina-2017,47100.0
+Veg,South America-Argentina-2017,71100.0
+Fat,South America-Argentina-2018,121.0
+Protein,South America-Argentina-2018,108.5
+Fruit,South America-Argentina-2018,79600.0
+Sugar,South America-Argentina-2018,45400.0
+Veg,South America-Argentina-2018,69700.0
+Fat,South America-Argentina-2019,123.9
+Protein,South America-Argentina-2019,113.0
+Fruit,South America-Argentina-2019,81200.0
+Sugar,South America-Argentina-2019,46500.0
+Veg,South America-Argentina-2019,70700.0
+Fat,South America-Argentina-2020,123.4
+Protein,South America-Argentina-2020,114.2
+Fruit,South America-Argentina-2020,74100.0
+Sugar,South America-Argentina-2020,47000.0
+Veg,South America-Argentina-2020,71500.0
+Fat,South America-Brazil-2010,112.5
+Protein,South America-Brazil-2010,92.4
+Fruit,South America-Brazil-2010,132000.0
+Sugar,South America-Brazil-2010,42900.0
+Veg,South America-Brazil-2010,53700.0
+Fat,South America-Brazil-2011,118.6
+Protein,South America-Brazil-2011,93.7
+Fruit,South America-Brazil-2011,142000.0
+Sugar,South America-Brazil-2011,42900.0
+Veg,South America-Brazil-2011,54100.0
+Fat,South America-Brazil-2012,118.8
+Protein,South America-Brazil-2012,92.5
+Fruit,South America-Brazil-2012,110400.0
+Sugar,South America-Brazil-2012,43000.0
+Veg,South America-Brazil-2012,51000.0
+Fat,South America-Brazil-2013,119.9
+Protein,South America-Brazil-2013,94.1
+Fruit,South America-Brazil-2013,101100.0
+Sugar,South America-Brazil-2013,43000.0
+Veg,South America-Brazil-2013,53000.0
+Fat,South America-Brazil-2014,123.5
+Protein,South America-Brazil-2014,94.3
+Fruit,South America-Brazil-2014,101300.0
+Sugar,South America-Brazil-2014,43100.0
+Veg,South America-Brazil-2014,53100.0
+Fat,South America-Brazil-2015,125.1
+Protein,South America-Brazil-2015,92.8
+Fruit,South America-Brazil-2015,100300.0
+Sugar,South America-Brazil-2015,42800.0
+Veg,South America-Brazil-2015,51500.0
+Fat,South America-Brazil-2016,124.7
+Protein,South America-Brazil-2016,93.2
+Fruit,South America-Brazil-2016,88000.0
+Sugar,South America-Brazil-2016,42700.0
+Veg,South America-Brazil-2016,52000.0
+Fat,South America-Brazil-2017,125.1
+Protein,South America-Brazil-2017,94.1
+Fruit,South America-Brazil-2017,93500.0
+Sugar,South America-Brazil-2017,42600.0
+Veg,South America-Brazil-2017,52100.0
+Fat,South America-Brazil-2018,127.4
+Protein,South America-Brazil-2018,96.8
+Fruit,South America-Brazil-2018,99700.0
+Sugar,South America-Brazil-2018,42500.0
+Veg,South America-Brazil-2018,51500.0
+Fat,South America-Brazil-2019,136.0
+Protein,South America-Brazil-2019,92.5
+Fruit,South America-Brazil-2019,98000.0
+Sugar,South America-Brazil-2019,42100.0
+Veg,South America-Brazil-2019,49600.0
+Fat,South America-Brazil-2020,140.1
+Protein,South America-Brazil-2020,93.0
+Fruit,South America-Brazil-2020,102200.0
+Sugar,South America-Brazil-2020,42800.0
+Veg,South America-Brazil-2020,48000.0
+Fat,South America-Chile-2010,80.3
+Protein,South America-Chile-2010,85.0
+Fruit,South America-Chile-2010,75500.0
+Sugar,South America-Chile-2010,53800.0
+Veg,South America-Chile-2010,67300.0
+Fat,South America-Chile-2011,82.3
+Protein,South America-Chile-2011,86.2
+Fruit,South America-Chile-2011,58000.0
+Sugar,South America-Chile-2011,53900.0
+Veg,South America-Chile-2011,70400.0
+Fat,South America-Chile-2012,84.8
+Protein,South America-Chile-2012,85.0
+Fruit,South America-Chile-2012,64200.0
+Sugar,South America-Chile-2012,53700.0
+Veg,South America-Chile-2012,75700.0
+Fat,South America-Chile-2013,88.3
+Protein,South America-Chile-2013,88.0
+Fruit,South America-Chile-2013,64400.00000000001
+Sugar,South America-Chile-2013,53700.0
+Veg,South America-Chile-2013,76200.0
+Fat,South America-Chile-2014,91.1
+Protein,South America-Chile-2014,86.7
+Fruit,South America-Chile-2014,65200.0
+Sugar,South America-Chile-2014,48300.0
+Veg,South America-Chile-2014,73600.0
+Fat,South America-Chile-2015,90.7
+Protein,South America-Chile-2015,87.1
+Fruit,South America-Chile-2015,60500.0
+Sugar,South America-Chile-2015,48600.0
+Veg,South America-Chile-2015,65900.0
+Fat,South America-Chile-2016,90.5
+Protein,South America-Chile-2016,90.0
+Fruit,South America-Chile-2016,56400.0
+Sugar,South America-Chile-2016,48000.0
+Veg,South America-Chile-2016,70400.0
+Fat,South America-Chile-2017,90.6
+Protein,South America-Chile-2017,91.0
+Fruit,South America-Chile-2017,56500.0
+Sugar,South America-Chile-2017,47100.0
+Veg,South America-Chile-2017,72100.0
+Fat,South America-Chile-2018,91.1
+Protein,South America-Chile-2018,93.5
+Fruit,South America-Chile-2018,52800.0
+Sugar,South America-Chile-2018,45900.0
+Veg,South America-Chile-2018,77000.0
+Fat,South America-Chile-2019,95.8
+Protein,South America-Chile-2019,93.2
+Fruit,South America-Chile-2019,57400.0
+Sugar,South America-Chile-2019,41200.0
+Veg,South America-Chile-2019,71900.0
+Fat,South America-Chile-2020,100.5
+Protein,South America-Chile-2020,92.5
+Fruit,South America-Chile-2020,74000.0
+Sugar,South America-Chile-2020,44900.0
+Veg,South America-Chile-2020,73300.0
+Fat,South America-Colombia-2010,77.9
+Protein,South America-Colombia-2010,61.2
+Fruit,South America-Colombia-2010,128100.0
+Sugar,South America-Colombia-2010,58700.0
+Veg,South America-Colombia-2010,37400.0
+Fat,South America-Colombia-2011,77.8
+Protein,South America-Colombia-2011,62.2
+Fruit,South America-Colombia-2011,127400.0
+Sugar,South America-Colombia-2011,59200.0
+Veg,South America-Colombia-2011,38700.0
+Fat,South America-Colombia-2012,81.1
+Protein,South America-Colombia-2012,64.4
+Fruit,South America-Colombia-2012,162700.0
+Sugar,South America-Colombia-2012,59700.0
+Veg,South America-Colombia-2012,41800.0
+Fat,South America-Colombia-2013,81.2
+Protein,South America-Colombia-2013,65.1
+Fruit,South America-Colombia-2013,178100.0
+Sugar,South America-Colombia-2013,61600.0
+Veg,South America-Colombia-2013,44100.0
+Fat,South America-Colombia-2014,84.5
+Protein,South America-Colombia-2014,68.0
+Fruit,South America-Colombia-2014,162200.0
+Sugar,South America-Colombia-2014,60300.0
+Veg,South America-Colombia-2014,43000.0
+Fat,South America-Colombia-2015,86.2
+Protein,South America-Colombia-2015,69.8
+Fruit,South America-Colombia-2015,178700.0
+Sugar,South America-Colombia-2015,59200.0
+Veg,South America-Colombia-2015,40800.0
+Fat,South America-Colombia-2016,85.6
+Protein,South America-Colombia-2016,69.2
+Fruit,South America-Colombia-2016,176500.0
+Sugar,South America-Colombia-2016,60800.0
+Veg,South America-Colombia-2016,47700.0
+Fat,South America-Colombia-2017,91.0
+Protein,South America-Colombia-2017,70.5
+Fruit,South America-Colombia-2017,106700.0
+Sugar,South America-Colombia-2017,75500.0
+Veg,South America-Colombia-2017,47000.0
+Fat,South America-Colombia-2018,90.4
+Protein,South America-Colombia-2018,72.6
+Fruit,South America-Colombia-2018,129600.0
+Sugar,South America-Colombia-2018,73800.0
+Veg,South America-Colombia-2018,52400.0
+Fat,South America-Colombia-2019,88.3
+Protein,South America-Colombia-2019,74.1
+Fruit,South America-Colombia-2019,144600.0
+Sugar,South America-Colombia-2019,57500.0
+Veg,South America-Colombia-2019,55100.0
+Fat,South America-Colombia-2020,91.3
+Protein,South America-Colombia-2020,72.5
+Fruit,South America-Colombia-2020,134100.0
+Sugar,South America-Colombia-2020,55400.0
+Veg,South America-Colombia-2020,51200.0
+Fat,South America-Peru-2010,51.2
+Protein,South America-Peru-2010,76.5
+Fruit,South America-Peru-2010,127200.0
+Sugar,South America-Peru-2010,21700.0
+Veg,South America-Peru-2010,67800.0
+Fat,South America-Peru-2011,53.1
+Protein,South America-Peru-2011,77.7
+Fruit,South America-Peru-2011,121000.0
+Sugar,South America-Peru-2011,21700.0
+Veg,South America-Peru-2011,68400.0
+Fat,South America-Peru-2012,54.9
+Protein,South America-Peru-2012,81.3
+Fruit,South America-Peru-2012,125400.0
+Sugar,South America-Peru-2012,22000.0
+Veg,South America-Peru-2012,72400.0
+Fat,South America-Peru-2013,56.2
+Protein,South America-Peru-2013,82.0
+Fruit,South America-Peru-2013,134700.0
+Sugar,South America-Peru-2013,22200.0
+Veg,South America-Peru-2013,70600.0
+Fat,South America-Peru-2014,57.1
+Protein,South America-Peru-2014,84.7
+Fruit,South America-Peru-2014,131000.0
+Sugar,South America-Peru-2014,21900.0
+Veg,South America-Peru-2014,70700.0
+Fat,South America-Peru-2015,57.2
+Protein,South America-Peru-2015,86.2
+Fruit,South America-Peru-2015,130600.0
+Sugar,South America-Peru-2015,22600.0
+Veg,South America-Peru-2015,69900.0
+Fat,South America-Peru-2016,58.6
+Protein,South America-Peru-2016,86.3
+Fruit,South America-Peru-2016,133900.0
+Sugar,South America-Peru-2016,22700.0
+Veg,South America-Peru-2016,66400.0
+Fat,South America-Peru-2017,58.9
+Protein,South America-Peru-2017,87.1
+Fruit,South America-Peru-2017,123000.0
+Sugar,South America-Peru-2017,22800.0
+Veg,South America-Peru-2017,67200.0
+Fat,South America-Peru-2018,60.1
+Protein,South America-Peru-2018,89.8
+Fruit,South America-Peru-2018,123300.0
+Sugar,South America-Peru-2018,22700.0
+Veg,South America-Peru-2018,67300.0
+Fat,South America-Peru-2019,65.0
+Protein,South America-Peru-2019,92.2
+Fruit,South America-Peru-2019,129300.00000000001
+Sugar,South America-Peru-2019,22100.0
+Veg,South America-Peru-2019,62900.0
+Fat,South America-Peru-2020,64.6
+Protein,South America-Peru-2020,91.7
+Fruit,South America-Peru-2020,129900.0
+Sugar,South America-Peru-2020,21700.0
+Veg,South America-Peru-2020,57800.0
+Fat,Southern Europe-Greece-2010,152.8
+Protein,Southern Europe-Greece-2010,111.8
+Fruit,Southern Europe-Greece-2010,117000.0
+Sugar,Southern Europe-Greece-2010,35900.0
+Veg,Southern Europe-Greece-2010,219700.0
+Fat,Southern Europe-Greece-2011,154.3
+Protein,Southern Europe-Greece-2011,108.8
+Fruit,Southern Europe-Greece-2011,124700.0
+Sugar,Southern Europe-Greece-2011,31700.0
+Veg,Southern Europe-Greece-2011,237700.0
+Fat,Southern Europe-Greece-2012,149.1
+Protein,Southern Europe-Greece-2012,107.5
+Fruit,Southern Europe-Greece-2012,119600.0
+Sugar,Southern Europe-Greece-2012,34900.0
+Veg,Southern Europe-Greece-2012,227700.0
+Fat,Southern Europe-Greece-2013,147.0
+Protein,Southern Europe-Greece-2013,108.0
+Fruit,Southern Europe-Greece-2013,126000.0
+Sugar,Southern Europe-Greece-2013,33200.0
+Veg,Southern Europe-Greece-2013,224300.0
+Fat,Southern Europe-Greece-2014,152.2
+Protein,Southern Europe-Greece-2014,109.1
+Fruit,Southern Europe-Greece-2014,109900.0
+Sugar,Southern Europe-Greece-2014,29300.0
+Veg,Southern Europe-Greece-2014,161500.0
+Fat,Southern Europe-Greece-2015,148.2
+Protein,Southern Europe-Greece-2015,106.2
+Fruit,Southern Europe-Greece-2015,114200.0
+Sugar,Southern Europe-Greece-2015,29200.0
+Veg,Southern Europe-Greece-2015,169000.0
+Fat,Southern Europe-Greece-2016,147.5
+Protein,Southern Europe-Greece-2016,105.1
+Fruit,Southern Europe-Greece-2016,95800.0
+Sugar,Southern Europe-Greece-2016,29200.0
+Veg,Southern Europe-Greece-2016,163300.0
+Fat,Southern Europe-Greece-2017,149.0
+Protein,Southern Europe-Greece-2017,106.0
+Fruit,Southern Europe-Greece-2017,113000.0
+Sugar,Southern Europe-Greece-2017,33600.0
+Veg,Southern Europe-Greece-2017,154900.0
+Fat,Southern Europe-Greece-2018,153.5
+Protein,Southern Europe-Greece-2018,109.7
+Fruit,Southern Europe-Greece-2018,123300.0
+Sugar,Southern Europe-Greece-2018,32800.0
+Veg,Southern Europe-Greece-2018,156600.0
+Fat,Southern Europe-Greece-2019,161.7
+Protein,Southern Europe-Greece-2019,106.3
+Fruit,Southern Europe-Greece-2019,139100.0
+Sugar,Southern Europe-Greece-2019,33800.0
+Veg,Southern Europe-Greece-2019,147500.0
+Fat,Southern Europe-Greece-2020,155.7
+Protein,Southern Europe-Greece-2020,102.6
+Fruit,Southern Europe-Greece-2020,143200.0
+Sugar,Southern Europe-Greece-2020,38300.0
+Veg,Southern Europe-Greece-2020,157600.0
+Fat,Southern Europe-Italy-2010,156.5
+Protein,Southern Europe-Italy-2010,111.7
+Fruit,Southern Europe-Italy-2010,151000.0
+Sugar,Southern Europe-Italy-2010,30000.0
+Veg,Southern Europe-Italy-2010,146900.0
+Fat,Southern Europe-Italy-2011,157.6
+Protein,Southern Europe-Italy-2011,110.0
+Fruit,Southern Europe-Italy-2011,142400.0
+Sugar,Southern Europe-Italy-2011,30800.0
+Veg,Southern Europe-Italy-2011,143500.0
+Fat,Southern Europe-Italy-2012,157.9
+Protein,Southern Europe-Italy-2012,109.1
+Fruit,Southern Europe-Italy-2012,128699.99999999999
+Sugar,Southern Europe-Italy-2012,31500.0
+Veg,Southern Europe-Italy-2012,132900.0
+Fat,Southern Europe-Italy-2013,154.8
+Protein,Southern Europe-Italy-2013,108.6
+Fruit,Southern Europe-Italy-2013,138800.0
+Sugar,Southern Europe-Italy-2013,32100.0
+Veg,Southern Europe-Italy-2013,127400.0
+Fat,Southern Europe-Italy-2014,148.7
+Protein,Southern Europe-Italy-2014,105.9
+Fruit,Southern Europe-Italy-2014,119600.0
+Sugar,Southern Europe-Italy-2014,32700.000000000004
+Veg,Southern Europe-Italy-2014,128000.0
+Fat,Southern Europe-Italy-2015,146.0
+Protein,Southern Europe-Italy-2015,104.6
+Fruit,Southern Europe-Italy-2015,125300.0
+Sugar,Southern Europe-Italy-2015,32500.0
+Veg,Southern Europe-Italy-2015,133900.0
+Fat,Southern Europe-Italy-2016,146.6
+Protein,Southern Europe-Italy-2016,103.6
+Fruit,Southern Europe-Italy-2016,121100.0
+Sugar,Southern Europe-Italy-2016,32500.0
+Veg,Southern Europe-Italy-2016,132100.0
+Fat,Southern Europe-Italy-2017,146.9
+Protein,Southern Europe-Italy-2017,104.6
+Fruit,Southern Europe-Italy-2017,121400.0
+Sugar,Southern Europe-Italy-2017,32400.0
+Veg,Southern Europe-Italy-2017,128699.99999999999
+Fat,Southern Europe-Italy-2018,145.4
+Protein,Southern Europe-Italy-2018,105.2
+Fruit,Southern Europe-Italy-2018,121500.0
+Sugar,Southern Europe-Italy-2018,33200.0
+Veg,Southern Europe-Italy-2018,122900.0
+Fat,Southern Europe-Italy-2019,149.9
+Protein,Southern Europe-Italy-2019,106.3
+Fruit,Southern Europe-Italy-2019,117500.0
+Sugar,Southern Europe-Italy-2019,33400.0
+Veg,Southern Europe-Italy-2019,98400.0
+Fat,Southern Europe-Italy-2020,153.2
+Protein,Southern Europe-Italy-2020,105.7
+Fruit,Southern Europe-Italy-2020,127900.0
+Sugar,Southern Europe-Italy-2020,34600.0
+Veg,Southern Europe-Italy-2020,94600.0
+Fat,Southern Europe-Portugal-2010,138.3
+Protein,Southern Europe-Portugal-2010,116.3
+Fruit,Southern Europe-Portugal-2010,105000.0
+Sugar,Southern Europe-Portugal-2010,47600.0
+Veg,Southern Europe-Portugal-2010,201000.0
+Fat,Southern Europe-Portugal-2011,139.9
+Protein,Southern Europe-Portugal-2011,113.1
+Fruit,Southern Europe-Portugal-2011,115500.0
+Sugar,Southern Europe-Portugal-2011,44200.0
+Veg,Southern Europe-Portugal-2011,125700.0
+Fat,Southern Europe-Portugal-2012,135.5
+Protein,Southern Europe-Portugal-2012,111.3
+Fruit,Southern Europe-Portugal-2012,101100.0
+Sugar,Southern Europe-Portugal-2012,43400.0
+Veg,Southern Europe-Portugal-2012,134400.0
+Fat,Southern Europe-Portugal-2013,134.6
+Protein,Southern Europe-Portugal-2013,111.1
+Fruit,Southern Europe-Portugal-2013,113700.0
+Sugar,Southern Europe-Portugal-2013,39500.0
+Veg,Southern Europe-Portugal-2013,117400.0
+Fat,Southern Europe-Portugal-2014,133.2
+Protein,Southern Europe-Portugal-2014,111.1
+Fruit,Southern Europe-Portugal-2014,107500.0
+Sugar,Southern Europe-Portugal-2014,36800.0
+Veg,Southern Europe-Portugal-2014,143100.0
+Fat,Southern Europe-Portugal-2015,138.1
+Protein,Southern Europe-Portugal-2015,112.3
+Fruit,Southern Europe-Portugal-2015,101500.0
+Sugar,Southern Europe-Portugal-2015,38000.0
+Veg,Southern Europe-Portugal-2015,168400.0
+Fat,Southern Europe-Portugal-2016,134.0
+Protein,Southern Europe-Portugal-2016,113.1
+Fruit,Southern Europe-Portugal-2016,117600.0
+Sugar,Southern Europe-Portugal-2016,40300.0
+Veg,Southern Europe-Portugal-2016,157700.0
+Fat,Southern Europe-Portugal-2017,134.0
+Protein,Southern Europe-Portugal-2017,114.8
+Fruit,Southern Europe-Portugal-2017,129500.0
+Sugar,Southern Europe-Portugal-2017,36000.0
+Veg,Southern Europe-Portugal-2017,156500.0
+Fat,Southern Europe-Portugal-2018,138.0
+Protein,Southern Europe-Portugal-2018,118.8
+Fruit,Southern Europe-Portugal-2018,134500.0
+Sugar,Southern Europe-Portugal-2018,38100.0
+Veg,Southern Europe-Portugal-2018,108300.0
+Fat,Southern Europe-Portugal-2019,146.3
+Protein,Southern Europe-Portugal-2019,118.6
+Fruit,Southern Europe-Portugal-2019,141700.0
+Sugar,Southern Europe-Portugal-2019,35100.0
+Veg,Southern Europe-Portugal-2019,128900.0
+Fat,Southern Europe-Portugal-2020,147.6
+Protein,Southern Europe-Portugal-2020,117.7
+Fruit,Southern Europe-Portugal-2020,131800.0
+Sugar,Southern Europe-Portugal-2020,34000.0
+Veg,Southern Europe-Portugal-2020,131000.0
+Fat,Southern Europe-Spain-2010,143.6
+Protein,Southern Europe-Spain-2010,106.6
+Fruit,Southern Europe-Spain-2010,77000.0
+Sugar,Southern Europe-Spain-2010,30400.0
+Veg,Southern Europe-Spain-2010,140600.0
+Fat,Southern Europe-Spain-2011,144.0
+Protein,Southern Europe-Spain-2011,105.6
+Fruit,Southern Europe-Spain-2011,72400.0
+Sugar,Southern Europe-Spain-2011,32200.000000000004
+Veg,Southern Europe-Spain-2011,125600.0
+Fat,Southern Europe-Spain-2012,143.3
+Protein,Southern Europe-Spain-2012,104.5
+Fruit,Southern Europe-Spain-2012,64000.0
+Sugar,Southern Europe-Spain-2012,32700.000000000004
+Veg,Southern Europe-Spain-2012,126200.0
+Fat,Southern Europe-Spain-2013,143.3
+Protein,Southern Europe-Spain-2013,104.7
+Fruit,Southern Europe-Spain-2013,69700.0
+Sugar,Southern Europe-Spain-2013,32400.0
+Veg,Southern Europe-Spain-2013,119200.0
+Fat,Southern Europe-Spain-2014,141.4
+Protein,Southern Europe-Spain-2014,104.8
+Fruit,Southern Europe-Spain-2014,81200.0
+Sugar,Southern Europe-Spain-2014,33300.0
+Veg,Southern Europe-Spain-2014,128900.0
+Fat,Southern Europe-Spain-2015,147.2
+Protein,Southern Europe-Spain-2015,105.4
+Fruit,Southern Europe-Spain-2015,64800.0
+Sugar,Southern Europe-Spain-2015,33300.0
+Veg,Southern Europe-Spain-2015,125500.0
+Fat,Southern Europe-Spain-2016,149.9
+Protein,Southern Europe-Spain-2016,107.4
+Fruit,Southern Europe-Spain-2016,97700.0
+Sugar,Southern Europe-Spain-2016,33500.0
+Veg,Southern Europe-Spain-2016,137100.0
+Fat,Southern Europe-Spain-2017,152.4
+Protein,Southern Europe-Spain-2017,107.2
+Fruit,Southern Europe-Spain-2017,99500.0
+Sugar,Southern Europe-Spain-2017,33000.0
+Veg,Southern Europe-Spain-2017,137700.0
+Fat,Southern Europe-Spain-2018,152.4
+Protein,Southern Europe-Spain-2018,110.0
+Fruit,Southern Europe-Spain-2018,105600.0
+Sugar,Southern Europe-Spain-2018,33700.0
+Veg,Southern Europe-Spain-2018,117300.0
+Fat,Southern Europe-Spain-2019,153.4
+Protein,Southern Europe-Spain-2019,111.8
+Fruit,Southern Europe-Spain-2019,91300.0
+Sugar,Southern Europe-Spain-2019,32500.0
+Veg,Southern Europe-Spain-2019,120000.0
+Fat,Southern Europe-Spain-2020,155.1
+Protein,Southern Europe-Spain-2020,111.1
+Fruit,Southern Europe-Spain-2020,98400.0
+Sugar,Southern Europe-Spain-2020,31200.0
+Veg,Southern Europe-Spain-2020,106500.0
+Fat,Western Europe-Austria-2010,174.2
+Protein,Western Europe-Austria-2010,106.2
+Fruit,Western Europe-Austria-2010,83900.0
+Sugar,Western Europe-Austria-2010,46200.0
+Veg,Western Europe-Austria-2010,96200.0
+Fat,Western Europe-Austria-2011,173.3
+Protein,Western Europe-Austria-2011,107.3
+Fruit,Western Europe-Austria-2011,83500.0
+Sugar,Western Europe-Austria-2011,46500.0
+Veg,Western Europe-Austria-2011,102700.0
+Fat,Western Europe-Austria-2012,172.8
+Protein,Western Europe-Austria-2012,102.8
+Fruit,Western Europe-Austria-2012,99900.0
+Sugar,Western Europe-Austria-2012,46100.0
+Veg,Western Europe-Austria-2012,92800.0
+Fat,Western Europe-Austria-2013,171.7
+Protein,Western Europe-Austria-2013,105.0
+Fruit,Western Europe-Austria-2013,88000.0
+Sugar,Western Europe-Austria-2013,44500.0
+Veg,Western Europe-Austria-2013,92600.0
+Fat,Western Europe-Austria-2014,162.2
+Protein,Western Europe-Austria-2014,106.5
+Fruit,Western Europe-Austria-2014,89600.0
+Sugar,Western Europe-Austria-2014,44900.0
+Veg,Western Europe-Austria-2014,101900.0
+Fat,Western Europe-Austria-2015,163.7
+Protein,Western Europe-Austria-2015,107.1
+Fruit,Western Europe-Austria-2015,89600.0
+Sugar,Western Europe-Austria-2015,46900.0
+Veg,Western Europe-Austria-2015,89300.0
+Fat,Western Europe-Austria-2016,162.3
+Protein,Western Europe-Austria-2016,109.6
+Fruit,Western Europe-Austria-2016,79000.0
+Sugar,Western Europe-Austria-2016,48500.0
+Veg,Western Europe-Austria-2016,94500.0
+Fat,Western Europe-Austria-2017,165.5
+Protein,Western Europe-Austria-2017,107.4
+Fruit,Western Europe-Austria-2017,80100.0
+Sugar,Western Europe-Austria-2017,47500.0
+Veg,Western Europe-Austria-2017,93900.0
+Fat,Western Europe-Austria-2018,166.0
+Protein,Western Europe-Austria-2018,109.8
+Fruit,Western Europe-Austria-2018,95900.0
+Sugar,Western Europe-Austria-2018,45600.0
+Veg,Western Europe-Austria-2018,87700.0
+Fat,Western Europe-Austria-2019,178.5
+Protein,Western Europe-Austria-2019,109.1
+Fruit,Western Europe-Austria-2019,86000.0
+Sugar,Western Europe-Austria-2019,40500.0
+Veg,Western Europe-Austria-2019,100200.0
+Fat,Western Europe-Austria-2020,183.7
+Protein,Western Europe-Austria-2020,106.1
+Fruit,Western Europe-Austria-2020,89200.0
+Sugar,Western Europe-Austria-2020,36800.0
+Veg,Western Europe-Austria-2020,97600.0
+Fat,Western Europe-Belgium-2010,161.3
+Protein,Western Europe-Belgium-2010,96.9
+Fruit,Western Europe-Belgium-2010,57500.0
+Sugar,Western Europe-Belgium-2010,54300.0
+Veg,Western Europe-Belgium-2010,104800.0
+Fat,Western Europe-Belgium-2011,167.7
+Protein,Western Europe-Belgium-2011,96.6
+Fruit,Western Europe-Belgium-2011,37200.0
+Sugar,Western Europe-Belgium-2011,48600.0
+Veg,Western Europe-Belgium-2011,116400.0
+Fat,Western Europe-Belgium-2012,161.6
+Protein,Western Europe-Belgium-2012,99.0
+Fruit,Western Europe-Belgium-2012,43000.0
+Sugar,Western Europe-Belgium-2012,54100.0
+Veg,Western Europe-Belgium-2012,116900.0
+Fat,Western Europe-Belgium-2013,162.3
+Protein,Western Europe-Belgium-2013,99.6
+Fruit,Western Europe-Belgium-2013,49900.0
+Sugar,Western Europe-Belgium-2013,51900.0
+Veg,Western Europe-Belgium-2013,122500.0
+Fat,Western Europe-Belgium-2014,161.7
+Protein,Western Europe-Belgium-2014,98.5
+Fruit,Western Europe-Belgium-2014,150500.0
+Sugar,Western Europe-Belgium-2014,53300.0
+Veg,Western Europe-Belgium-2014,112400.0
+Fat,Western Europe-Belgium-2015,166.6
+Protein,Western Europe-Belgium-2015,98.9
+Fruit,Western Europe-Belgium-2015,116300.0
+Sugar,Western Europe-Belgium-2015,61500.0
+Veg,Western Europe-Belgium-2015,103400.0
+Fat,Western Europe-Belgium-2016,165.2
+Protein,Western Europe-Belgium-2016,99.8
+Fruit,Western Europe-Belgium-2016,120700.0
+Sugar,Western Europe-Belgium-2016,58800.0
+Veg,Western Europe-Belgium-2016,115400.0
+Fat,Western Europe-Belgium-2017,166.9
+Protein,Western Europe-Belgium-2017,98.5
+Fruit,Western Europe-Belgium-2017,89300.0
+Sugar,Western Europe-Belgium-2017,59100.0
+Veg,Western Europe-Belgium-2017,113100.0
+Fat,Western Europe-Belgium-2018,163.4
+Protein,Western Europe-Belgium-2018,98.1
+Fruit,Western Europe-Belgium-2018,123800.0
+Sugar,Western Europe-Belgium-2018,62600.0
+Veg,Western Europe-Belgium-2018,109700.0
+Fat,Western Europe-Belgium-2019,177.0
+Protein,Western Europe-Belgium-2019,103.1
+Fruit,Western Europe-Belgium-2019,102800.0
+Sugar,Western Europe-Belgium-2019,57600.0
+Veg,Western Europe-Belgium-2019,133300.0
+Fat,Western Europe-Belgium-2020,179.7
+Protein,Western Europe-Belgium-2020,104.8
+Fruit,Western Europe-Belgium-2020,93200.0
+Sugar,Western Europe-Belgium-2020,51100.0
+Veg,Western Europe-Belgium-2020,133300.0
+Fat,Western Europe-France-2010,162.7
+Protein,Western Europe-France-2010,112.4
+Fruit,Western Europe-France-2010,74200.0
+Sugar,Western Europe-France-2010,38000.0
+Veg,Western Europe-France-2010,102600.0
+Fat,Western Europe-France-2011,160.5
+Protein,Western Europe-France-2011,111.0
+Fruit,Western Europe-France-2011,80000.0
+Sugar,Western Europe-France-2011,37700.0
+Veg,Western Europe-France-2011,99000.0
+Fat,Western Europe-France-2012,156.9
+Protein,Western Europe-France-2012,110.5
+Fruit,Western Europe-France-2012,72700.0
+Sugar,Western Europe-France-2012,38000.0
+Veg,Western Europe-France-2012,97900.0
+Fat,Western Europe-France-2013,158.4
+Protein,Western Europe-France-2013,109.9
+Fruit,Western Europe-France-2013,79300.0
+Sugar,Western Europe-France-2013,39200.0
+Veg,Western Europe-France-2013,96900.0
+Fat,Western Europe-France-2014,149.3
+Protein,Western Europe-France-2014,107.1
+Fruit,Western Europe-France-2014,80200.0
+Sugar,Western Europe-France-2014,37300.0
+Veg,Western Europe-France-2014,94800.0
+Fat,Western Europe-France-2015,148.6
+Protein,Western Europe-France-2015,108.9
+Fruit,Western Europe-France-2015,78600.0
+Sugar,Western Europe-France-2015,38600.0
+Veg,Western Europe-France-2015,93200.0
+Fat,Western Europe-France-2016,149.6
+Protein,Western Europe-France-2016,109.6
+Fruit,Western Europe-France-2016,91800.0
+Sugar,Western Europe-France-2016,38700.0
+Veg,Western Europe-France-2016,100700.0
+Fat,Western Europe-France-2017,149.1
+Protein,Western Europe-France-2017,109.4
+Fruit,Western Europe-France-2017,93900.0
+Sugar,Western Europe-France-2017,38800.0
+Veg,Western Europe-France-2017,101800.0
+Fat,Western Europe-France-2018,149.9
+Protein,Western Europe-France-2018,108.5
+Fruit,Western Europe-France-2018,82900.0
+Sugar,Western Europe-France-2018,38800.0
+Veg,Western Europe-France-2018,99100.0
+Fat,Western Europe-France-2019,153.4
+Protein,Western Europe-France-2019,119.5
+Fruit,Western Europe-France-2019,86700.0
+Sugar,Western Europe-France-2019,34100.0
+Veg,Western Europe-France-2019,95800.0
+Fat,Western Europe-France-2020,152.4
+Protein,Western Europe-France-2020,119.9
+Fruit,Western Europe-France-2020,83800.0
+Sugar,Western Europe-France-2020,36200.0
+Veg,Western Europe-France-2020,94800.0
+Fat,Western Europe-Germany-2010,144.1
+Protein,Western Europe-Germany-2010,101.8
+Fruit,Western Europe-Germany-2010,61000.0
+Sugar,Western Europe-Germany-2010,49900.0
+Veg,Western Europe-Germany-2010,80600.0
+Fat,Western Europe-Germany-2011,145.6
+Protein,Western Europe-Germany-2011,103.1
+Fruit,Western Europe-Germany-2011,64400.00000000001
+Sugar,Western Europe-Germany-2011,48800.0
+Veg,Western Europe-Germany-2011,85500.0
+Fat,Western Europe-Germany-2012,144.3
+Protein,Western Europe-Germany-2012,101.8
+Fruit,Western Europe-Germany-2012,64800.0
+Sugar,Western Europe-Germany-2012,47400.0
+Veg,Western Europe-Germany-2012,87800.0
+Fat,Western Europe-Germany-2013,141.8
+Protein,Western Europe-Germany-2013,101.6
+Fruit,Western Europe-Germany-2013,65700.0
+Sugar,Western Europe-Germany-2013,48300.0
+Veg,Western Europe-Germany-2013,83600.0
+Fat,Western Europe-Germany-2014,142.2
+Protein,Western Europe-Germany-2014,104.1
+Fruit,Western Europe-Germany-2014,70500.0
+Sugar,Western Europe-Germany-2014,49000.0
+Veg,Western Europe-Germany-2014,90000.0
+Fat,Western Europe-Germany-2015,143.7
+Protein,Western Europe-Germany-2015,105.1
+Fruit,Western Europe-Germany-2015,75800.0
+Sugar,Western Europe-Germany-2015,49300.0
+Veg,Western Europe-Germany-2015,88400.0
+Fat,Western Europe-Germany-2016,145.1
+Protein,Western Europe-Germany-2016,104.7
+Fruit,Western Europe-Germany-2016,76500.0
+Sugar,Western Europe-Germany-2016,47500.0
+Veg,Western Europe-Germany-2016,91800.0
+Fat,Western Europe-Germany-2017,146.2
+Protein,Western Europe-Germany-2017,104.1
+Fruit,Western Europe-Germany-2017,70700.0
+Sugar,Western Europe-Germany-2017,46500.0
+Veg,Western Europe-Germany-2017,94700.0
+Fat,Western Europe-Germany-2018,151.3
+Protein,Western Europe-Germany-2018,105.5
+Fruit,Western Europe-Germany-2018,78100.0
+Sugar,Western Europe-Germany-2018,44200.0
+Veg,Western Europe-Germany-2018,89800.0
+Fat,Western Europe-Germany-2019,164.5
+Protein,Western Europe-Germany-2019,105.0
+Fruit,Western Europe-Germany-2019,77300.0
+Sugar,Western Europe-Germany-2019,43700.0
+Veg,Western Europe-Germany-2019,88300.0
+Fat,Western Europe-Germany-2020,164.8
+Protein,Western Europe-Germany-2020,105.9
+Fruit,Western Europe-Germany-2020,78600.0
+Sugar,Western Europe-Germany-2020,45800.0
+Veg,Western Europe-Germany-2020,91400.0
+Fat,Western Europe-Ireland-2010,130.6
+Protein,Western Europe-Ireland-2010,111.7
+Fruit,Western Europe-Ireland-2010,58800.0
+Sugar,Western Europe-Ireland-2010,41600.0
+Veg,Western Europe-Ireland-2010,83100.0
+Fat,Western Europe-Ireland-2011,130.3
+Protein,Western Europe-Ireland-2011,108.3
+Fruit,Western Europe-Ireland-2011,59500.0
+Sugar,Western Europe-Ireland-2011,94000.0
+Veg,Western Europe-Ireland-2011,87500.0
+Fat,Western Europe-Ireland-2012,130.5
+Protein,Western Europe-Ireland-2012,105.7
+Fruit,Western Europe-Ireland-2012,58300.0
+Sugar,Western Europe-Ireland-2012,89800.0
+Veg,Western Europe-Ireland-2012,90900.0
+Fat,Western Europe-Ireland-2013,126.3
+Protein,Western Europe-Ireland-2013,110.0
+Fruit,Western Europe-Ireland-2013,63700.0
+Sugar,Western Europe-Ireland-2013,83900.0
+Veg,Western Europe-Ireland-2013,86200.0
+Fat,Western Europe-Ireland-2014,131.5
+Protein,Western Europe-Ireland-2014,106.4
+Fruit,Western Europe-Ireland-2014,61700.0
+Sugar,Western Europe-Ireland-2014,90900.0
+Veg,Western Europe-Ireland-2014,87500.0
+Fat,Western Europe-Ireland-2015,136.5
+Protein,Western Europe-Ireland-2015,114.3
+Fruit,Western Europe-Ireland-2015,65800.0
+Sugar,Western Europe-Ireland-2015,81600.0
+Veg,Western Europe-Ireland-2015,90900.0
+Fat,Western Europe-Ireland-2016,135.1
+Protein,Western Europe-Ireland-2016,111.4
+Fruit,Western Europe-Ireland-2016,65700.0
+Sugar,Western Europe-Ireland-2016,84300.0
+Veg,Western Europe-Ireland-2016,93400.0
+Fat,Western Europe-Ireland-2017,149.0
+Protein,Western Europe-Ireland-2017,115.5
+Fruit,Western Europe-Ireland-2017,66900.0
+Sugar,Western Europe-Ireland-2017,78700.0
+Veg,Western Europe-Ireland-2017,88600.0
+Fat,Western Europe-Ireland-2018,148.2
+Protein,Western Europe-Ireland-2018,117.2
+Fruit,Western Europe-Ireland-2018,69200.0
+Sugar,Western Europe-Ireland-2018,85000.0
+Veg,Western Europe-Ireland-2018,86700.0
+Fat,Western Europe-Ireland-2019,149.0
+Protein,Western Europe-Ireland-2019,115.8
+Fruit,Western Europe-Ireland-2019,69300.0
+Sugar,Western Europe-Ireland-2019,81000.0
+Veg,Western Europe-Ireland-2019,79800.0
+Fat,Western Europe-Ireland-2020,162.6
+Protein,Western Europe-Ireland-2020,115.4
+Fruit,Western Europe-Ireland-2020,78600.0
+Sugar,Western Europe-Ireland-2020,87400.0
+Veg,Western Europe-Ireland-2020,79100.0
+Fat,Western Europe-Luxembourg-2010,140.3
+Protein,Western Europe-Luxembourg-2010,110.3
+Fruit,Western Europe-Luxembourg-2010,96900.0
+Sugar,Western Europe-Luxembourg-2010,165600.0
+Veg,Western Europe-Luxembourg-2010,99200.0
+Fat,Western Europe-Luxembourg-2011,137.7
+Protein,Western Europe-Luxembourg-2011,114.0
+Fruit,Western Europe-Luxembourg-2011,94000.0
+Sugar,Western Europe-Luxembourg-2011,149100.0
+Veg,Western Europe-Luxembourg-2011,98200.0
+Fat,Western Europe-Luxembourg-2012,140.4
+Protein,Western Europe-Luxembourg-2012,115.7
+Fruit,Western Europe-Luxembourg-2012,91500.0
+Sugar,Western Europe-Luxembourg-2012,171100.0
+Veg,Western Europe-Luxembourg-2012,96300.0
+Fat,Western Europe-Luxembourg-2013,141.9
+Protein,Western Europe-Luxembourg-2013,114.0
+Fruit,Western Europe-Luxembourg-2013,90300.0
+Sugar,Western Europe-Luxembourg-2013,169200.0
+Veg,Western Europe-Luxembourg-2013,96600.0
+Fat,Western Europe-Luxembourg-2014,138.0
+Protein,Western Europe-Luxembourg-2014,111.8
+Fruit,Western Europe-Luxembourg-2014,79700.0
+Sugar,Western Europe-Luxembourg-2014,163500.0
+Veg,Western Europe-Luxembourg-2014,94500.0
+Fat,Western Europe-Luxembourg-2015,139.8
+Protein,Western Europe-Luxembourg-2015,112.2
+Fruit,Western Europe-Luxembourg-2015,81100.0
+Sugar,Western Europe-Luxembourg-2015,163200.0
+Veg,Western Europe-Luxembourg-2015,91400.0
+Fat,Western Europe-Luxembourg-2016,140.1
+Protein,Western Europe-Luxembourg-2016,111.4
+Fruit,Western Europe-Luxembourg-2016,90800.0
+Sugar,Western Europe-Luxembourg-2016,161700.0
+Veg,Western Europe-Luxembourg-2016,98700.0
+Fat,Western Europe-Luxembourg-2017,142.0
+Protein,Western Europe-Luxembourg-2017,109.8
+Fruit,Western Europe-Luxembourg-2017,88900.0
+Sugar,Western Europe-Luxembourg-2017,160500.0
+Veg,Western Europe-Luxembourg-2017,95600.0
+Fat,Western Europe-Luxembourg-2018,143.6
+Protein,Western Europe-Luxembourg-2018,108.9
+Fruit,Western Europe-Luxembourg-2018,89100.0
+Sugar,Western Europe-Luxembourg-2018,163000.0
+Veg,Western Europe-Luxembourg-2018,92600.0
+Fat,Western Europe-Luxembourg-2019,149.3
+Protein,Western Europe-Luxembourg-2019,108.7
+Fruit,Western Europe-Luxembourg-2019,86300.0
+Sugar,Western Europe-Luxembourg-2019,155600.0
+Veg,Western Europe-Luxembourg-2019,91500.0
+Fat,Western Europe-Luxembourg-2020,142.5
+Protein,Western Europe-Luxembourg-2020,110.4
+Fruit,Western Europe-Luxembourg-2020,87300.0
+Sugar,Western Europe-Luxembourg-2020,149500.0
+Veg,Western Europe-Luxembourg-2020,91000.0
+Fat,Western Europe-Netherlands-2010,125.0
+Protein,Western Europe-Netherlands-2010,107.9
+Fruit,Western Europe-Netherlands-2010,90800.0
+Sugar,Western Europe-Netherlands-2010,47100.0
+Veg,Western Europe-Netherlands-2010,57300.0
+Fat,Western Europe-Netherlands-2011,122.3
+Protein,Western Europe-Netherlands-2011,107.0
+Fruit,Western Europe-Netherlands-2011,102800.0
+Sugar,Western Europe-Netherlands-2011,45500.0
+Veg,Western Europe-Netherlands-2011,61600.0
+Fat,Western Europe-Netherlands-2012,124.1
+Protein,Western Europe-Netherlands-2012,112.1
+Fruit,Western Europe-Netherlands-2012,92600.0
+Sugar,Western Europe-Netherlands-2012,45400.0
+Veg,Western Europe-Netherlands-2012,53800.0
+Fat,Western Europe-Netherlands-2013,125.4
+Protein,Western Europe-Netherlands-2013,111.9
+Fruit,Western Europe-Netherlands-2013,107300.0
+Sugar,Western Europe-Netherlands-2013,44500.0
+Veg,Western Europe-Netherlands-2013,58500.0
+Fat,Western Europe-Netherlands-2014,126.7
+Protein,Western Europe-Netherlands-2014,108.5
+Fruit,Western Europe-Netherlands-2014,106600.0
+Sugar,Western Europe-Netherlands-2014,43800.0
+Veg,Western Europe-Netherlands-2014,57100.0
+Fat,Western Europe-Netherlands-2015,128.0
+Protein,Western Europe-Netherlands-2015,107.6
+Fruit,Western Europe-Netherlands-2015,112200.0
+Sugar,Western Europe-Netherlands-2015,45500.0
+Veg,Western Europe-Netherlands-2015,63500.0
+Fat,Western Europe-Netherlands-2016,130.2
+Protein,Western Europe-Netherlands-2016,107.6
+Fruit,Western Europe-Netherlands-2016,110200.0
+Sugar,Western Europe-Netherlands-2016,44600.0
+Veg,Western Europe-Netherlands-2016,66300.0
+Fat,Western Europe-Netherlands-2017,126.6
+Protein,Western Europe-Netherlands-2017,102.4
+Fruit,Western Europe-Netherlands-2017,94000.0
+Sugar,Western Europe-Netherlands-2017,45700.0
+Veg,Western Europe-Netherlands-2017,64200.0
+Fat,Western Europe-Netherlands-2018,139.4
+Protein,Western Europe-Netherlands-2018,103.9
+Fruit,Western Europe-Netherlands-2018,100000.0
+Sugar,Western Europe-Netherlands-2018,37600.0
+Veg,Western Europe-Netherlands-2018,66600.0
+Fat,Western Europe-Netherlands-2019,134.3
+Protein,Western Europe-Netherlands-2019,107.3
+Fruit,Western Europe-Netherlands-2019,100700.0
+Sugar,Western Europe-Netherlands-2019,47400.0
+Veg,Western Europe-Netherlands-2019,87400.0
+Fat,Western Europe-Netherlands-2020,140.4
+Protein,Western Europe-Netherlands-2020,112.6
+Fruit,Western Europe-Netherlands-2020,107600.0
+Sugar,Western Europe-Netherlands-2020,47300.0
+Veg,Western Europe-Netherlands-2020,79100.0
+Fat,Western Europe-Switzerland-2010,156.9
+Protein,Western Europe-Switzerland-2010,94.7
+Fruit,Western Europe-Switzerland-2010,81100.0
+Sugar,Western Europe-Switzerland-2010,58600.0
+Veg,Western Europe-Switzerland-2010,92200.0
+Fat,Western Europe-Switzerland-2011,158.5
+Protein,Western Europe-Switzerland-2011,95.5
+Fruit,Western Europe-Switzerland-2011,73900.0
+Sugar,Western Europe-Switzerland-2011,58000.0
+Veg,Western Europe-Switzerland-2011,102900.0
+Fat,Western Europe-Switzerland-2012,151.3
+Protein,Western Europe-Switzerland-2012,92.0
+Fruit,Western Europe-Switzerland-2012,82200.0
+Sugar,Western Europe-Switzerland-2012,60100.0
+Veg,Western Europe-Switzerland-2012,99000.0
+Fat,Western Europe-Switzerland-2013,153.5
+Protein,Western Europe-Switzerland-2013,93.0
+Fruit,Western Europe-Switzerland-2013,80800.0
+Sugar,Western Europe-Switzerland-2013,60200.0
+Veg,Western Europe-Switzerland-2013,98400.0
+Fat,Western Europe-Switzerland-2014,156.9
+Protein,Western Europe-Switzerland-2014,97.0
+Fruit,Western Europe-Switzerland-2014,81600.0
+Sugar,Western Europe-Switzerland-2014,52000.0
+Veg,Western Europe-Switzerland-2014,94800.0
+Fat,Western Europe-Switzerland-2015,159.1
+Protein,Western Europe-Switzerland-2015,97.3
+Fruit,Western Europe-Switzerland-2015,80900.0
+Sugar,Western Europe-Switzerland-2015,48300.0
+Veg,Western Europe-Switzerland-2015,93900.0
+Fat,Western Europe-Switzerland-2016,155.2
+Protein,Western Europe-Switzerland-2016,96.7
+Fruit,Western Europe-Switzerland-2016,80600.0
+Sugar,Western Europe-Switzerland-2016,47700.0
+Veg,Western Europe-Switzerland-2016,92800.0
+Fat,Western Europe-Switzerland-2017,154.8
+Protein,Western Europe-Switzerland-2017,96.9
+Fruit,Western Europe-Switzerland-2017,84600.0
+Sugar,Western Europe-Switzerland-2017,49000.0
+Veg,Western Europe-Switzerland-2017,94100.0
+Fat,Western Europe-Switzerland-2018,157.9
+Protein,Western Europe-Switzerland-2018,97.4
+Fruit,Western Europe-Switzerland-2018,83800.0
+Sugar,Western Europe-Switzerland-2018,45300.0
+Veg,Western Europe-Switzerland-2018,92800.0
+Fat,Western Europe-Switzerland-2019,158.2
+Protein,Western Europe-Switzerland-2019,96.5
+Fruit,Western Europe-Switzerland-2019,79500.0
+Sugar,Western Europe-Switzerland-2019,46100.0
+Veg,Western Europe-Switzerland-2019,88700.0
+Fat,Western Europe-Switzerland-2020,160.2
+Protein,Western Europe-Switzerland-2020,98.0
+Fruit,Western Europe-Switzerland-2020,83100.0
+Sugar,Western Europe-Switzerland-2020,46800.0
+Veg,Western Europe-Switzerland-2020,93800.0
