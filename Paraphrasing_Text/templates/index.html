@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Paraphraser</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Text Paraphraser</h1>
+        <form action="/paraphrase" method="POST">
+            <textarea name="input_text" placeholder="Enter your text here..." rows="5" required></textarea>
+            <button type="submit">Paraphrase</button>
+        </form>
+
+        {% if original %}
+        <h2>Original Text:</h2>
+        <p>{{ original }}</p>
+        <h2>Paraphrased Text:</h2>
+        <p>{{ paraphrased }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
