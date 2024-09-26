@@ -1,0 +1,5 @@
+tensorflow
+pillow
+taipy
+opencv-python
+numpy
