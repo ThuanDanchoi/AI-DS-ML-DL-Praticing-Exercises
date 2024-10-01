@@ -1,8 +1,0 @@
-emoji
-scikit-learn
-matplotlib
-tensorflow
-pandas
-numpy
-flask
-seaborn
